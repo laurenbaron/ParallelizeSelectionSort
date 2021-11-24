@@ -17,7 +17,6 @@ void swap(int *xp, int *yp)
 	int temp = *xp;
 	*xp = *yp;
 	*yp = temp;
-	printf("swapped %d with %d\n", *xp, *yp);
 }
 
 void printArray(int arr[], int size);
@@ -31,10 +30,12 @@ void selectionSort(int arr[], int n)
 		// Find the minimum element in unsorted array
 		//use tuple 
 		struct min_tuple min;
+		min.min_index = i;
+                min.min_value=arr[i];
 		//by the end of the inner loop, min tuple will have the true minimum from the reduction 
-		for (j = i; j < n; j++){
+		for (j = i+1; j < n; j++){
 			//var can't appear in more than one clause so can't use first private to initialize min (min before loop is ignored)
-			if(i==0 && j==0) {
+			if(i==0 && j==1) {
 				min.min_index = i;
 				min.min_value=arr[i];
 			}
