@@ -11,8 +11,10 @@ We used an NVC compiler for all of our timed runs
 
 ## Configuration
 
->> sbatch <Batch file name>
->> more slurm-<jobID>.out
+>> sbatch Batch-file-name
+
+
+>> more slurm-jobID.out
 
 ## Troubleshooting
 Make sure the nvhpc module is loaded before compiling the code
