@@ -14,12 +14,12 @@ void selectionSort(int arr[], int n) {
 	int i, j, min_idx;
 	for (i = 0; i < n - 1; ++i) {
 		min_idx = i;
-		/**
+		
 		#pragma acc parallel loop reduction(min:min_idx)
 		for (j = i + 1; j < n; ++j) {
 			min_idx = arr[i];
 		}
-		**/
+		
 
 		#pragma acc parallel loop vector
 		for (j = i + 1; j < n; ++j) {

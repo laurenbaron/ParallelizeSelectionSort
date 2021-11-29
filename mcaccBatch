@@ -1,14 +1,15 @@
-#! /bin/bash 
-#SBATCH -A see200002p       # specify the project or allocation number 
-#SBATCH -p RM-shared  # RM-shared partition 
-#SBATCH -J myjob                   # Job name 
-#SBATCH --mail-user=swetha@udel.edu 
-#SBATCH --mail-type=ALL 
- 
-#SBATCH -N 1                      # Number of nodes, not cores (16 cores/node) 
-#SBATCH -n 4                  # Number of cores requested in total      
- 
-#SBATCH -t 00:05:00             # set maximum run time of 30 minutes 
- 
-export 
-./parallel
+#! /bin/bash
+#SBATCH -A see200002p
+#SBATCH -p RM-shared
+#SBATCH -J myjob
+#SBATCH --mail-user=swetha@udel.edu
+#SBATCH --mail-type=ALL
+
+#SBATCH -N 1
+#SBATCH -n 2
+#SBATCH -t 00:05:00
+export ACC_NUM_CORES=2
+./mc_acc
+
+
+
