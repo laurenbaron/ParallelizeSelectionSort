@@ -35,7 +35,7 @@ void selectionSort(int arr[], int n)
 		#pragma omp parallel for reduction(minimum:min)
 		for (j = i+1; j < n; j++){
 			//WE NEED TO INITIALIZE MIN_VALUE TO NOT BE 0 BECAUSE arr[j]<0 WON'T REPLACE MIN 
-			//we have tried #pragma omp single, firstprivate(min), wait clauses...
+			//we have tried #pragma omp single, firstprivate(min), wait clauses, using omp_get_thread_num(), ...
 			/*
 			if(i==0 && j==1) {
 				min.min_index = i;
