@@ -28,7 +28,7 @@ void selectionSort(int arr[], int n)
 		}
 		// Swap the found minimum element with the first element
 		//offset so first element is in the correct place
-		if(i>0 && min_i!=i && i<(n/2))
+		if(i>0 && min_i!=i && i<=(n/2))
 			swap(&arr[min_i], &arr[i-1]);
 	}
 }

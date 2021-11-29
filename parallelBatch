@@ -10,5 +10,5 @@
  
 #SBATCH -t 00:05:00             # set maximum run time of 30 minutes 
  
-export OMP_NUM_THREADS=4; 
+export OMP_NUM_THREADS=8; 
 ./parallel
