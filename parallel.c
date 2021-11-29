@@ -19,7 +19,6 @@ void swap(int *xp, int *yp)
 	*yp = temp;
 }
 
-void printArray(int arr[], int size);
 void selectionSort(int arr[], int n)
 {
 	int i, j;
@@ -33,12 +32,16 @@ void selectionSort(int arr[], int n)
 		min.min_index = i;
                 min.min_value=arr[i];
 		//by the end of the inner loop, min tuple will have the true minimum from the reduction 
+		#pragma omp parallel for reduction(minimum:min)
 		for (j = i+1; j < n; j++){
-			//var can't appear in more than one clause so can't use first private to initialize min (min before loop is ignored)
+			//WE NEED TO INITIALIZE MIN_VALUE TO NOT BE 0 BECAUSE arr[j]<0 WON'T REPLACE MIN 
+			//we have tried #pragma omp single, firstprivate(min), wait clauses...
+			/*
 			if(i==0 && j==1) {
 				min.min_index = i;
 				min.min_value=arr[i];
 			}
+			*/
 			if (arr[j] < min.min_value) {
 				min.min_index = j;
 				min.min_value=arr[j];
@@ -64,7 +67,7 @@ int main()
 {
 	double begin,end;
 	begin=omp_get_wtime();
-	//really big array...inefficient with serial code
+	//big array...inefficient with serial code
 	int arr[] = {64, 25, 12, 22, 11,1,3,23,4,56,788,7,65,43,2,24,7,86,5,32,2,46,7,889,9,
 	1,1,345,5,76856,74,3,6,7,85,3,23,56,7,1,32,4,5,8,3,4,2,1,2,5,8,798,4,5,6,9,7,6,3,2,1,
 	23,4,56,8,2,34,56,8,5,12,2,3,54,34,2,2,4,5,5,45,6,54,56,3457,35,8,3,45,6,8,7,5,4,53,
