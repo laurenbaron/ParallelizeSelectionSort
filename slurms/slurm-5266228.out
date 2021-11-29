@@ -1,0 +1,4333 @@
+min val 64
+swapping 64 with 64 and min val is 0
+swapping 64 with 64 and min val is 0
+swapping 0 with 64 and min val is 0
+swapping 0 with 0 and min val is 0
+min val 25
+swapping 0 with 25 and min val is 0
+swapping 25 with 0 and min val is 0
+swapping 1 with 25 and min val is 1
+swapping 0 with 1 and min val is 0
+min val 12
+swapping 1 with 12 and min val is 0
+swapping 12 with 1 and min val is 0
+swapping 1 with 12 and min val is 1
+swapping 1 with 1 and min val is 0
+min val 22
+swapping 1 with 22 and min val is 0
+swapping 22 with 1 and min val is 0
+swapping 2 with 22 and min val is 2
+swapping 1 with 2 and min val is 0
+min val 11
+swapping 2 with 11 and min val is 0
+swapping 11 with 2 and min val is 0
+swapping 2 with 11 and min val is 2
+swapping 2 with 2 and min val is 0
+min val 1
+swapping 2 with 1 and min val is 0
+swapping 1 with 2 and min val is 0
+swapping 1 with 1 and min val is 1
+swapping 2 with 1 and min val is 0
+min val 3
+swapping 1 with 3 and min val is 0
+swapping 3 with 1 and min val is 0
+swapping 2 with 3 and min val is 2
+swapping 1 with 2 and min val is 0
+min val 23
+swapping 2 with 23 and min val is 0
+swapping 23 with 2 and min val is 0
+swapping 2 with 23 and min val is 2
+swapping 2 with 2 and min val is 0
+min val 4
+swapping 2 with 4 and min val is 0
+swapping 4 with 2 and min val is 0
+swapping 2 with 4 and min val is 2
+swapping 2 with 2 and min val is 0
+min val 56
+swapping 2 with 56 and min val is 0
+swapping 56 with 2 and min val is 0
+swapping 3 with 56 and min val is 3
+swapping 2 with 3 and min val is 0
+min val 788
+swapping 3 with 788 and min val is 0
+swapping 788 with 3 and min val is 0
+swapping 3 with 788 and min val is 0
+swapping 3 with 3 and min val is 3
+min val 7
+swapping 788 with 7 and min val is 0
+swapping 7 with 788 and min val is 0
+swapping 1 with 7 and min val is 1
+swapping 788 with 1 and min val is 0
+min val 65
+swapping 1 with 65 and min val is 0
+swapping 65 with 1 and min val is 0
+swapping 1 with 65 and min val is 1
+swapping 1 with 1 and min val is 0
+min val 43
+swapping 1 with 43 and min val is 0
+swapping 43 with 1 and min val is 0
+swapping 1 with 43 and min val is 1
+swapping 1 with 1 and min val is 0
+min val 2
+swapping 1 with 2 and min val is 0
+swapping 2 with 1 and min val is 0
+swapping 1 with 2 and min val is 1
+swapping 1 with 1 and min val is 0
+min val 24
+swapping 1 with 24 and min val is 0
+swapping 24 with 1 and min val is 0
+swapping 1 with 24 and min val is 1
+swapping 1 with 1 and min val is 0
+min val 7
+swapping 1 with 7 and min val is 0
+swapping 7 with 1 and min val is 0
+swapping 1 with 7 and min val is 1
+swapping 1 with 1 and min val is 0
+min val 86
+swapping 1 with 86 and min val is 0
+swapping 86 with 1 and min val is 0
+swapping 1 with 86 and min val is 1
+swapping 1 with 1 and min val is 0
+min val 5
+swapping 1 with 5 and min val is 0
+swapping 5 with 1 and min val is 0
+swapping 1 with 5 and min val is 1
+swapping 1 with 1 and min val is 0
+min val 32
+swapping 1 with 32 and min val is 0
+swapping 32 with 1 and min val is 0
+swapping 2 with 32 and min val is 2
+swapping 1 with 2 and min val is 0
+min val 32
+swapping 2 with 32 and min val is 0
+swapping 32 with 2 and min val is 0
+swapping 2 with 32 and min val is 2
+swapping 2 with 2 and min val is 0
+min val 46
+swapping 2 with 46 and min val is 0
+swapping 46 with 2 and min val is 0
+swapping 1 with 46 and min val is 1
+swapping 2 with 1 and min val is 0
+min val 7
+swapping 1 with 7 and min val is 0
+swapping 7 with 1 and min val is 0
+swapping 2 with 7 and min val is 2
+swapping 1 with 2 and min val is 0
+min val 889
+swapping 2 with 889 and min val is 0
+swapping 889 with 2 and min val is 0
+swapping 2 with 889 and min val is 2
+swapping 2 with 2 and min val is 0
+min val 9
+swapping 2 with 9 and min val is 0
+swapping 9 with 2 and min val is 0
+swapping 2 with 9 and min val is 2
+swapping 2 with 2 and min val is 0
+min val 7
+swapping 2 with 7 and min val is 0
+swapping 7 with 2 and min val is 0
+swapping 1 with 7 and min val is 1
+swapping 2 with 1 and min val is 0
+min val 65
+swapping 1 with 65 and min val is 0
+swapping 65 with 1 and min val is 0
+swapping 1 with 65 and min val is 1
+swapping 1 with 1 and min val is 0
+min val 345
+swapping 1 with 345 and min val is 0
+swapping 345 with 1 and min val is 0
+swapping 1 with 345 and min val is 1
+swapping 1 with 1 and min val is 0
+min val 5
+swapping 1 with 5 and min val is 0
+swapping 5 with 1 and min val is 0
+swapping 2 with 5 and min val is 2
+swapping 1 with 2 and min val is 0
+min val 76856
+swapping 2 with 76856 and min val is 0
+swapping 76856 with 2 and min val is 0
+swapping 2 with 76856 and min val is 2
+swapping 2 with 2 and min val is 0
+min val 74
+swapping 2 with 74 and min val is 0
+swapping 74 with 2 and min val is 0
+swapping 2 with 74 and min val is 2
+swapping 2 with 2 and min val is 0
+min val 3
+swapping 2 with 3 and min val is 0
+swapping 3 with 2 and min val is 0
+swapping 2 with 3 and min val is 2
+swapping 2 with 2 and min val is 0
+min val 6
+swapping 2 with 6 and min val is 0
+swapping 6 with 2 and min val is 0
+swapping 2 with 6 and min val is 2
+swapping 2 with 2 and min val is 0
+min val 7
+swapping 2 with 7 and min val is 0
+swapping 7 with 2 and min val is 0
+swapping 2 with 7 and min val is 2
+swapping 2 with 2 and min val is 0
+min val 85
+swapping 2 with 85 and min val is 0
+swapping 85 with 2 and min val is 0
+swapping 2 with 85 and min val is 2
+swapping 2 with 2 and min val is 0
+min val 3
+swapping 2 with 3 and min val is 0
+swapping 3 with 2 and min val is 0
+swapping 2 with 3 and min val is 2
+swapping 2 with 2 and min val is 0
+min val 23
+swapping 2 with 23 and min val is 0
+swapping 23 with 2 and min val is 0
+swapping 2 with 23 and min val is 2
+swapping 2 with 2 and min val is 0
+min val 56
+swapping 2 with 56 and min val is 0
+swapping 56 with 2 and min val is 0
+swapping 2 with 56 and min val is 2
+swapping 2 with 2 and min val is 0
+min val 7
+swapping 2 with 7 and min val is 0
+swapping 7 with 2 and min val is 0
+swapping 2 with 7 and min val is 2
+swapping 2 with 2 and min val is 0
+min val 43
+swapping 2 with 43 and min val is 0
+swapping 43 with 2 and min val is 0
+swapping 2 with 43 and min val is 2
+swapping 2 with 2 and min val is 0
+min val 32
+swapping 2 with 32 and min val is 0
+swapping 32 with 2 and min val is 0
+swapping 2 with 32 and min val is 2
+swapping 2 with 2 and min val is 0
+min val 4
+swapping 2 with 4 and min val is 0
+swapping 4 with 2 and min val is 0
+swapping 2 with 4 and min val is 2
+swapping 2 with 2 and min val is 0
+min val 5
+swapping 2 with 5 and min val is 0
+swapping 5 with 2 and min val is 0
+swapping 2 with 5 and min val is 2
+swapping 2 with 2 and min val is 0
+min val 8
+swapping 2 with 8 and min val is 0
+swapping 8 with 2 and min val is 0
+swapping 2 with 8 and min val is 2
+swapping 2 with 2 and min val is 0
+min val 3
+swapping 2 with 3 and min val is 0
+swapping 3 with 2 and min val is 0
+swapping 3 with 3 and min val is 3
+swapping 2 with 3 and min val is 0
+min val 4
+swapping 3 with 4 and min val is 0
+swapping 4 with 3 and min val is 0
+swapping 3 with 4 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 32
+swapping 3 with 32 and min val is 0
+swapping 32 with 3 and min val is 0
+swapping 3 with 32 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 7
+swapping 3 with 7 and min val is 0
+swapping 7 with 3 and min val is 0
+swapping 3 with 7 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 889
+swapping 3 with 889 and min val is 0
+swapping 889 with 3 and min val is 0
+swapping 3 with 889 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 5
+swapping 3 with 5 and min val is 0
+swapping 5 with 3 and min val is 0
+swapping 3 with 5 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 8
+swapping 3 with 8 and min val is 0
+swapping 8 with 3 and min val is 0
+swapping 3 with 8 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 798
+swapping 3 with 798 and min val is 0
+swapping 798 with 3 and min val is 0
+swapping 3 with 798 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 4
+swapping 3 with 4 and min val is 0
+swapping 4 with 3 and min val is 0
+swapping 3 with 4 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 5
+swapping 3 with 5 and min val is 0
+swapping 5 with 3 and min val is 0
+swapping 3 with 5 and min val is 3
+swapping 3 with 5 and min val is 0
+min val 6
+swapping 3 with 6 and min val is 0
+swapping 6 with 3 and min val is 0
+swapping 3 with 6 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 9
+swapping 3 with 9 and min val is 0
+swapping 9 with 3 and min val is 0
+swapping 3 with 9 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 7
+swapping 3 with 7 and min val is 0
+swapping 7 with 3 and min val is 0
+swapping 3 with 7 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 6
+swapping 3 with 6 and min val is 0
+swapping 6 with 3 and min val is 0
+swapping 3 with 6 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 3
+swapping 3 with 3 and min val is 0
+swapping 3 with 3 and min val is 0
+swapping 3 with 3 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 9
+swapping 3 with 9 and min val is 0
+swapping 9 with 3 and min val is 0
+swapping 3 with 9 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 24
+swapping 3 with 24 and min val is 0
+swapping 24 with 3 and min val is 0
+swapping 3 with 24 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 23
+swapping 3 with 23 and min val is 0
+swapping 23 with 3 and min val is 0
+swapping 3 with 23 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 4
+swapping 3 with 4 and min val is 0
+swapping 4 with 3 and min val is 0
+swapping 3 with 4 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 56
+swapping 3 with 56 and min val is 0
+swapping 56 with 3 and min val is 0
+swapping 3 with 56 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 8
+swapping 3 with 8 and min val is 0
+swapping 8 with 3 and min val is 0
+swapping 3 with 8 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 2
+swapping 3 with 2 and min val is 0
+swapping 2 with 3 and min val is 0
+swapping 2 with 2 and min val is 2
+swapping 3 with 2 and min val is 0
+min val 34
+swapping 2 with 34 and min val is 0
+swapping 34 with 2 and min val is 0
+swapping 3 with 34 and min val is 3
+swapping 2 with 3 and min val is 0
+min val 56
+swapping 3 with 56 and min val is 0
+swapping 56 with 3 and min val is 0
+swapping 3 with 56 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 8
+swapping 3 with 8 and min val is 0
+swapping 8 with 3 and min val is 0
+swapping 3 with 8 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 5
+swapping 3 with 5 and min val is 0
+swapping 5 with 3 and min val is 0
+swapping 3 with 5 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 12
+swapping 3 with 12 and min val is 0
+swapping 12 with 3 and min val is 0
+swapping 3 with 12 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 2
+swapping 3 with 2 and min val is 0
+swapping 2 with 3 and min val is 0
+swapping 2 with 2 and min val is 2
+swapping 3 with 2 and min val is 0
+min val 3
+swapping 2 with 3 and min val is 0
+swapping 3 with 2 and min val is 0
+swapping 3 with 3 and min val is 3
+swapping 2 with 3 and min val is 0
+min val 54
+swapping 3 with 54 and min val is 0
+swapping 54 with 3 and min val is 0
+swapping 3 with 54 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 34
+swapping 3 with 34 and min val is 0
+swapping 34 with 3 and min val is 0
+swapping 3 with 34 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 2
+swapping 3 with 2 and min val is 0
+swapping 2 with 3 and min val is 0
+swapping 2 with 2 and min val is 2
+swapping 3 with 2 and min val is 0
+min val 2
+swapping 2 with 2 and min val is 0
+swapping 2 with 2 and min val is 0
+swapping 2 with 2 and min val is 2
+swapping 2 with 2 and min val is 0
+min val 4
+swapping 2 with 4 and min val is 0
+swapping 4 with 2 and min val is 0
+swapping 3 with 4 and min val is 3
+swapping 2 with 3 and min val is 0
+min val 5
+swapping 3 with 5 and min val is 0
+swapping 5 with 3 and min val is 0
+swapping 3 with 5 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 5
+swapping 3 with 5 and min val is 0
+swapping 5 with 3 and min val is 0
+swapping 3 with 5 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 45
+swapping 3 with 45 and min val is 0
+swapping 45 with 3 and min val is 0
+swapping 3 with 45 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 6
+swapping 3 with 6 and min val is 0
+swapping 6 with 3 and min val is 0
+swapping 4 with 6 and min val is 4
+swapping 3 with 4 and min val is 0
+min val 54
+swapping 4 with 54 and min val is 0
+swapping 54 with 4 and min val is 0
+swapping 4 with 54 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 56
+swapping 4 with 56 and min val is 0
+swapping 56 with 4 and min val is 0
+swapping 4 with 56 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 3457
+swapping 4 with 3457 and min val is 0
+swapping 3457 with 4 and min val is 0
+swapping 4 with 3457 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 35
+swapping 4 with 35 and min val is 0
+swapping 35 with 4 and min val is 0
+swapping 4 with 35 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 8
+swapping 4 with 8 and min val is 0
+swapping 8 with 4 and min val is 0
+swapping 4 with 8 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 3
+swapping 4 with 3 and min val is 0
+swapping 3 with 4 and min val is 0
+swapping 3 with 3 and min val is 3
+swapping 4 with 3 and min val is 0
+min val 45
+swapping 3 with 45 and min val is 0
+swapping 45 with 3 and min val is 0
+swapping 4 with 45 and min val is 4
+swapping 3 with 4 and min val is 0
+min val 6
+swapping 4 with 6 and min val is 0
+swapping 6 with 4 and min val is 0
+swapping 4 with 6 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 8
+swapping 4 with 8 and min val is 0
+swapping 8 with 4 and min val is 0
+swapping 4 with 8 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 7
+swapping 4 with 7 and min val is 0
+swapping 7 with 4 and min val is 0
+swapping 4 with 7 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 5
+swapping 4 with 5 and min val is 0
+swapping 5 with 4 and min val is 0
+swapping 4 with 5 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 4
+swapping 4 with 4 and min val is 0
+swapping 4 with 4 and min val is 0
+swapping 4 with 4 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 53
+swapping 4 with 53 and min val is 0
+swapping 53 with 4 and min val is 0
+swapping 4 with 53 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 2
+swapping 4 with 2 and min val is 0
+swapping 2 with 4 and min val is 0
+swapping 2 with 2 and min val is 2
+swapping 4 with 2 and min val is 0
+min val 2
+swapping 2 with 2 and min val is 0
+swapping 2 with 2 and min val is 0
+swapping 2 with 2 and min val is 2
+swapping 2 with 2 and min val is 0
+min val 7
+swapping 2 with 7 and min val is 0
+swapping 7 with 2 and min val is 0
+swapping 3 with 7 and min val is 3
+swapping 2 with 3 and min val is 0
+min val 2
+swapping 3 with 2 and min val is 0
+swapping 2 with 3 and min val is 0
+swapping 2 with 2 and min val is 2
+swapping 3 with 2 and min val is 0
+min val 3
+swapping 2 with 3 and min val is 0
+swapping 3 with 2 and min val is 0
+swapping 3 with 3 and min val is 3
+swapping 2 with 3 and min val is 0
+min val 4
+swapping 3 with 4 and min val is 0
+swapping 4 with 3 and min val is 0
+swapping 4 with 4 and min val is 4
+swapping 3 with 4 and min val is 0
+min val 5
+swapping 4 with 5 and min val is 0
+swapping 5 with 4 and min val is 0
+swapping 4 with 5 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 6
+swapping 4 with 6 and min val is 0
+swapping 6 with 4 and min val is 0
+swapping 4 with 6 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 78
+swapping 4 with 78 and min val is 0
+swapping 78 with 4 and min val is 0
+swapping 4 with 78 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 90
+swapping 4 with 90 and min val is 0
+swapping 90 with 4 and min val is 0
+swapping 3 with 90 and min val is 3
+swapping 4 with 3 and min val is 0
+min val 64
+swapping 3 with 64 and min val is 0
+swapping 64 with 3 and min val is 0
+swapping 4 with 64 and min val is 4
+swapping 3 with 4 and min val is 0
+min val 9
+swapping 4 with 9 and min val is 0
+swapping 9 with 4 and min val is 0
+swapping 4 with 9 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 8
+swapping 4 with 8 and min val is 0
+swapping 8 with 4 and min val is 0
+swapping 4 with 8 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 7
+swapping 4 with 7 and min val is 0
+swapping 7 with 4 and min val is 0
+swapping 4 with 7 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 6
+swapping 4 with 6 and min val is 0
+swapping 6 with 4 and min val is 0
+swapping 4 with 6 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 5
+swapping 4 with 5 and min val is 0
+swapping 5 with 4 and min val is 0
+swapping 4 with 5 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 3
+swapping 4 with 3 and min val is 0
+swapping 3 with 4 and min val is 0
+swapping 3 with 3 and min val is 3
+swapping 4 with 3 and min val is 0
+min val 2
+swapping 3 with 2 and min val is 0
+swapping 2 with 3 and min val is 0
+swapping 2 with 2 and min val is 2
+swapping 3 with 2 and min val is 0
+min val 86
+swapping 2 with 86 and min val is 0
+swapping 86 with 2 and min val is 0
+swapping 3 with 86 and min val is 3
+swapping 2 with 3 and min val is 0
+min val 4
+swapping 3 with 4 and min val is 0
+swapping 4 with 3 and min val is 0
+swapping 4 with 4 and min val is 4
+swapping 3 with 4 and min val is 0
+min val 5
+swapping 4 with 5 and min val is 0
+swapping 5 with 4 and min val is 0
+swapping 4 with 5 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 7
+swapping 4 with 7 and min val is 0
+swapping 7 with 4 and min val is 0
+swapping 4 with 7 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 8
+swapping 4 with 8 and min val is 0
+swapping 8 with 4 and min val is 0
+swapping 4 with 8 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 9
+swapping 4 with 9 and min val is 0
+swapping 9 with 4 and min val is 0
+swapping 4 with 9 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 2
+swapping 4 with 2 and min val is 0
+swapping 2 with 4 and min val is 0
+swapping 2 with 2 and min val is 2
+swapping 4 with 2 and min val is 0
+min val 34
+swapping 2 with 34 and min val is 0
+swapping 34 with 2 and min val is 0
+swapping 3 with 34 and min val is 3
+swapping 2 with 3 and min val is 0
+min val 5
+swapping 3 with 5 and min val is 0
+swapping 5 with 3 and min val is 0
+swapping 4 with 5 and min val is 4
+swapping 3 with 4 and min val is 0
+min val 432
+swapping 4 with 432 and min val is 0
+swapping 432 with 4 and min val is 0
+swapping 4 with 432 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 3
+swapping 4 with 3 and min val is 0
+swapping 3 with 4 and min val is 0
+swapping 3 with 3 and min val is 3
+swapping 4 with 3 and min val is 0
+min val 45
+swapping 3 with 45 and min val is 0
+swapping 45 with 3 and min val is 0
+swapping 4 with 45 and min val is 4
+swapping 3 with 4 and min val is 0
+min val 234
+swapping 4 with 234 and min val is 0
+swapping 234 with 4 and min val is 0
+swapping 4 with 234 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 5
+swapping 4 with 5 and min val is 0
+swapping 5 with 4 and min val is 0
+swapping 4 with 5 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 234
+swapping 4 with 234 and min val is 0
+swapping 234 with 4 and min val is 0
+swapping 4 with 234 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 52
+swapping 4 with 52 and min val is 0
+swapping 52 with 4 and min val is 0
+swapping 3 with 52 and min val is 3
+swapping 4 with 3 and min val is 0
+min val 2345
+swapping 3 with 2345 and min val is 0
+swapping 2345 with 3 and min val is 0
+swapping 4 with 2345 and min val is 4
+swapping 3 with 4 and min val is 0
+min val 2
+swapping 4 with 2 and min val is 0
+swapping 2 with 4 and min val is 0
+swapping 2 with 2 and min val is 2
+swapping 4 with 2 and min val is 0
+min val 22
+swapping 2 with 22 and min val is 0
+swapping 22 with 2 and min val is 0
+swapping 4 with 22 and min val is 4
+swapping 2 with 4 and min val is 0
+min val 3
+swapping 4 with 3 and min val is 0
+swapping 3 with 4 and min val is 0
+swapping 3 with 3 and min val is 3
+swapping 4 with 3 and min val is 0
+min val 4
+swapping 3 with 4 and min val is 0
+swapping 4 with 3 and min val is 0
+swapping 4 with 4 and min val is 4
+swapping 3 with 4 and min val is 0
+min val 23
+swapping 4 with 23 and min val is 0
+swapping 23 with 4 and min val is 0
+swapping 4 with 23 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 3
+swapping 4 with 3 and min val is 0
+swapping 3 with 4 and min val is 0
+swapping 3 with 3 and min val is 3
+swapping 4 with 3 and min val is 0
+min val 4
+swapping 3 with 4 and min val is 0
+swapping 4 with 3 and min val is 0
+swapping 3 with 4 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 5
+swapping 3 with 5 and min val is 0
+swapping 5 with 3 and min val is 0
+swapping 4 with 5 and min val is 4
+swapping 3 with 4 and min val is 0
+min val 43
+swapping 4 with 43 and min val is 0
+swapping 43 with 4 and min val is 0
+swapping 4 with 43 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 2
+swapping 4 with 2 and min val is 0
+swapping 2 with 4 and min val is 0
+swapping 2 with 2 and min val is 2
+swapping 4 with 2 and min val is 0
+min val 345
+swapping 2 with 345 and min val is 0
+swapping 345 with 2 and min val is 0
+swapping 4 with 345 and min val is 4
+swapping 2 with 4 and min val is 0
+min val 3
+swapping 4 with 3 and min val is 0
+swapping 3 with 4 and min val is 0
+swapping 3 with 3 and min val is 3
+swapping 4 with 3 and min val is 0
+min val 2
+swapping 3 with 2 and min val is 0
+swapping 2 with 3 and min val is 0
+swapping 2 with 2 and min val is 2
+swapping 3 with 2 and min val is 0
+min val 45
+swapping 2 with 45 and min val is 0
+swapping 45 with 2 and min val is 0
+swapping 4 with 45 and min val is 4
+swapping 2 with 4 and min val is 0
+min val 2
+swapping 4 with 2 and min val is 0
+swapping 2 with 4 and min val is 0
+swapping 2 with 2 and min val is 2
+swapping 4 with 2 and min val is 0
+min val 3
+swapping 2 with 3 and min val is 0
+swapping 3 with 2 and min val is 0
+swapping 3 with 3 and min val is 3
+swapping 2 with 3 and min val is 0
+min val 45
+swapping 3 with 45 and min val is 0
+swapping 45 with 3 and min val is 0
+swapping 4 with 45 and min val is 4
+swapping 3 with 4 and min val is 0
+min val 43
+swapping 4 with 43 and min val is 0
+swapping 43 with 4 and min val is 0
+swapping 4 with 43 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 2
+swapping 4 with 2 and min val is 0
+swapping 2 with 4 and min val is 0
+swapping 2 with 2 and min val is 2
+swapping 4 with 2 and min val is 0
+min val 5
+swapping 2 with 5 and min val is 0
+swapping 5 with 2 and min val is 0
+swapping 4 with 5 and min val is 4
+swapping 2 with 4 and min val is 0
+min val 5
+swapping 4 with 5 and min val is 0
+swapping 5 with 4 and min val is 0
+swapping 4 with 5 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 56
+swapping 4 with 56 and min val is 0
+swapping 56 with 4 and min val is 0
+swapping 4 with 56 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 78
+swapping 4 with 78 and min val is 0
+swapping 78 with 4 and min val is 0
+swapping 4 with 78 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 3
+swapping 4 with 3 and min val is 0
+swapping 3 with 4 and min val is 0
+swapping 3 with 3 and min val is 3
+swapping 4 with 3 and min val is 0
+min val 45
+swapping 3 with 45 and min val is 0
+swapping 45 with 3 and min val is 0
+swapping 5 with 45 and min val is 5
+swapping 3 with 5 and min val is 0
+min val 62
+swapping 5 with 62 and min val is 0
+swapping 62 with 5 and min val is 0
+swapping 4 with 62 and min val is 4
+swapping 5 with 4 and min val is 0
+min val 3
+swapping 4 with 3 and min val is 0
+swapping 3 with 4 and min val is 0
+swapping 3 with 3 and min val is 3
+swapping 4 with 3 and min val is 0
+min val 45
+swapping 3 with 45 and min val is 0
+swapping 45 with 3 and min val is 0
+swapping 5 with 45 and min val is 5
+swapping 3 with 5 and min val is 0
+min val 34
+swapping 5 with 34 and min val is 0
+swapping 34 with 5 and min val is 0
+swapping 5 with 34 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 57
+swapping 5 with 57 and min val is 0
+swapping 57 with 5 and min val is 0
+swapping 5 with 57 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 568
+swapping 5 with 568 and min val is 0
+swapping 568 with 5 and min val is 0
+swapping 5 with 568 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 657
+swapping 5 with 657 and min val is 0
+swapping 657 with 5 and min val is 0
+swapping 5 with 657 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 89
+swapping 5 with 89 and min val is 0
+swapping 89 with 5 and min val is 0
+swapping 5 with 89 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 3
+swapping 5 with 3 and min val is 0
+swapping 3 with 5 and min val is 0
+swapping 3 with 3 and min val is 3
+swapping 5 with 3 and min val is 0
+min val 4
+swapping 3 with 4 and min val is 0
+swapping 4 with 3 and min val is 0
+swapping 4 with 4 and min val is 4
+swapping 3 with 4 and min val is 0
+min val 3
+swapping 4 with 3 and min val is 0
+swapping 3 with 4 and min val is 0
+swapping 3 with 3 and min val is 3
+swapping 4 with 3 and min val is 0
+min val 4
+swapping 3 with 4 and min val is 0
+swapping 4 with 3 and min val is 0
+swapping 4 with 4 and min val is 4
+swapping 3 with 4 and min val is 0
+min val 56
+swapping 4 with 56 and min val is 0
+swapping 56 with 4 and min val is 0
+swapping 3 with 56 and min val is 3
+swapping 4 with 3 and min val is 0
+min val 2
+swapping 3 with 2 and min val is 0
+swapping 2 with 3 and min val is 0
+swapping 2 with 2 and min val is 2
+swapping 3 with 2 and min val is 0
+min val 34
+swapping 2 with 34 and min val is 0
+swapping 34 with 2 and min val is 0
+swapping 4 with 34 and min val is 4
+swapping 2 with 4 and min val is 0
+min val 5
+swapping 4 with 5 and min val is 0
+swapping 5 with 4 and min val is 0
+swapping 5 with 5 and min val is 5
+swapping 4 with 5 and min val is 0
+min val 345
+swapping 5 with 345 and min val is 0
+swapping 345 with 5 and min val is 0
+swapping 5 with 345 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 67
+swapping 5 with 67 and min val is 0
+swapping 67 with 5 and min val is 0
+swapping 5 with 67 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 78
+swapping 5 with 78 and min val is 0
+swapping 78 with 5 and min val is 0
+swapping 5 with 78 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 23
+swapping 5 with 23 and min val is 0
+swapping 23 with 5 and min val is 0
+swapping 5 with 23 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 345
+swapping 5 with 345 and min val is 0
+swapping 345 with 5 and min val is 0
+swapping 4 with 345 and min val is 4
+swapping 5 with 4 and min val is 0
+min val 6
+swapping 4 with 6 and min val is 0
+swapping 6 with 4 and min val is 0
+swapping 3 with 6 and min val is 3
+swapping 4 with 3 and min val is 0
+min val 2346
+swapping 3 with 2346 and min val is 0
+swapping 2346 with 3 and min val is 0
+swapping 5 with 2346 and min val is 5
+swapping 3 with 5 and min val is 0
+min val 67
+swapping 5 with 67 and min val is 0
+swapping 67 with 5 and min val is 0
+swapping 5 with 67 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 58
+swapping 5 with 58 and min val is 0
+swapping 58 with 5 and min val is 0
+swapping 4 with 58 and min val is 4
+swapping 5 with 4 and min val is 0
+min val 69
+swapping 4 with 69 and min val is 0
+swapping 69 with 4 and min val is 0
+swapping 5 with 69 and min val is 5
+swapping 4 with 5 and min val is 0
+min val 467
+swapping 5 with 467 and min val is 0
+swapping 467 with 5 and min val is 0
+swapping 5 with 467 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 53
+swapping 5 with 53 and min val is 0
+swapping 53 with 5 and min val is 0
+swapping 5 with 53 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 654
+swapping 5 with 654 and min val is 0
+swapping 654 with 5 and min val is 0
+swapping 5 with 654 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 643
+swapping 5 with 643 and min val is 0
+swapping 643 with 5 and min val is 0
+swapping 5 with 643 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 57
+swapping 5 with 57 and min val is 0
+swapping 57 with 5 and min val is 0
+swapping 5 with 57 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 58
+swapping 5 with 58 and min val is 0
+swapping 58 with 5 and min val is 0
+swapping 5 with 58 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 69
+swapping 5 with 69 and min val is 0
+swapping 69 with 5 and min val is 0
+swapping 5 with 69 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 3
+swapping 5 with 3 and min val is 0
+swapping 3 with 5 and min val is 0
+swapping 3 with 3 and min val is 3
+swapping 5 with 3 and min val is 0
+min val 6
+swapping 3 with 6 and min val is 0
+swapping 6 with 3 and min val is 0
+swapping 5 with 6 and min val is 5
+swapping 3 with 5 and min val is 0
+min val 2
+swapping 5 with 2 and min val is 0
+swapping 2 with 5 and min val is 0
+swapping 2 with 2 and min val is 2
+swapping 5 with 2 and min val is 0
+min val 534
+swapping 2 with 534 and min val is 0
+swapping 534 with 2 and min val is 0
+swapping 5 with 534 and min val is 5
+swapping 2 with 5 and min val is 0
+min val 6
+swapping 5 with 6 and min val is 0
+swapping 6 with 5 and min val is 0
+swapping 5 with 6 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 674
+swapping 5 with 674 and min val is 0
+swapping 674 with 5 and min val is 0
+swapping 5 with 674 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 2345
+swapping 5 with 2345 and min val is 0
+swapping 2345 with 5 and min val is 0
+swapping 5 with 2345 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 3
+swapping 5 with 3 and min val is 0
+swapping 3 with 5 and min val is 0
+swapping 3 with 3 and min val is 3
+swapping 5 with 3 and min val is 0
+min val 4
+swapping 3 with 4 and min val is 0
+swapping 4 with 3 and min val is 0
+swapping 4 with 4 and min val is 4
+swapping 3 with 4 and min val is 0
+min val 6
+swapping 4 with 6 and min val is 0
+swapping 6 with 4 and min val is 0
+swapping 5 with 6 and min val is 5
+swapping 4 with 5 and min val is 0
+min val 43
+swapping 5 with 43 and min val is 0
+swapping 43 with 5 and min val is 0
+swapping 5 with 43 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 6
+swapping 5 with 6 and min val is 0
+swapping 6 with 5 and min val is 0
+swapping 5 with 6 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 58
+swapping 5 with 58 and min val is 0
+swapping 58 with 5 and min val is 0
+swapping 5 with 58 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 8
+swapping 5 with 8 and min val is 0
+swapping 8 with 5 and min val is 0
+swapping 5 with 8 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 567
+swapping 5 with 567 and min val is 0
+swapping 567 with 5 and min val is 0
+swapping 5 with 567 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 9
+swapping 5 with 9 and min val is 0
+swapping 9 with 5 and min val is 0
+swapping 5 with 9 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 3
+swapping 5 with 3 and min val is 0
+swapping 3 with 5 and min val is 0
+swapping 3 with 3 and min val is 3
+swapping 5 with 3 and min val is 0
+min val 456
+swapping 3 with 456 and min val is 0
+swapping 456 with 3 and min val is 0
+swapping 5 with 456 and min val is 5
+swapping 3 with 5 and min val is 0
+min val 34
+swapping 5 with 34 and min val is 0
+swapping 34 with 5 and min val is 0
+swapping 5 with 34 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 57
+swapping 5 with 57 and min val is 0
+swapping 57 with 5 and min val is 0
+swapping 5 with 57 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 58
+swapping 5 with 58 and min val is 0
+swapping 58 with 5 and min val is 0
+swapping 6 with 58 and min val is 6
+swapping 5 with 6 and min val is 0
+min val 6579
+swapping 6 with 6579 and min val is 0
+swapping 6579 with 6 and min val is 0
+swapping 6 with 6579 and min val is 6
+swapping 6 with 6 and min val is 0
+min val 870
+swapping 6 with 870 and min val is 0
+swapping 870 with 6 and min val is 0
+swapping 6 with 870 and min val is 6
+swapping 6 with 6 and min val is 0
+min val 98
+swapping 6 with 98 and min val is 0
+swapping 98 with 6 and min val is 0
+swapping 6 with 98 and min val is 6
+swapping 6 with 6 and min val is 0
+min val 2
+swapping 6 with 2 and min val is 0
+swapping 2 with 6 and min val is 0
+swapping 2 with 2 and min val is 2
+swapping 6 with 2 and min val is 0
+min val 452
+swapping 2 with 452 and min val is 0
+swapping 452 with 2 and min val is 0
+swapping 3 with 452 and min val is 3
+swapping 2 with 3 and min val is 0
+min val 345
+swapping 3 with 345 and min val is 0
+swapping 345 with 3 and min val is 0
+swapping 6 with 345 and min val is 6
+swapping 3 with 6 and min val is 0
+min val 3456
+swapping 6 with 3456 and min val is 0
+swapping 3456 with 6 and min val is 0
+swapping 6 with 3456 and min val is 6
+swapping 6 with 6 and min val is 0
+min val 76
+swapping 6 with 76 and min val is 0
+swapping 76 with 6 and min val is 0
+swapping 6 with 76 and min val is 6
+swapping 6 with 6 and min val is 0
+min val 873
+swapping 6 with 873 and min val is 0
+swapping 873 with 6 and min val is 0
+swapping 6 with 873 and min val is 6
+swapping 6 with 6 and min val is 0
+min val 34
+swapping 6 with 34 and min val is 0
+swapping 34 with 6 and min val is 0
+swapping 6 with 34 and min val is 6
+swapping 6 with 6 and min val is 0
+min val 57
+swapping 6 with 57 and min val is 0
+swapping 57 with 6 and min val is 0
+swapping 6 with 57 and min val is 6
+swapping 6 with 6 and min val is 0
+min val 245
+swapping 6 with 245 and min val is 0
+swapping 245 with 6 and min val is 0
+swapping 6 with 245 and min val is 6
+swapping 6 with 6 and min val is 0
+min val 23
+swapping 6 with 23 and min val is 0
+swapping 23 with 6 and min val is 0
+swapping 6 with 23 and min val is 0
+swapping 6 with 6 and min val is 6
+min val 6
+swapping 23 with 6 and min val is 0
+swapping 6 with 23 and min val is 0
+swapping 2 with 6 and min val is 2
+swapping 23 with 2 and min val is 0
+min val 75
+swapping 2 with 75 and min val is 0
+swapping 75 with 2 and min val is 0
+swapping 3 with 75 and min val is 3
+swapping 2 with 3 and min val is 0
+min val 86
+swapping 3 with 86 and min val is 0
+swapping 86 with 3 and min val is 0
+swapping 3 with 86 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 5
+swapping 3 with 5 and min val is 0
+swapping 5 with 3 and min val is 0
+swapping 3 with 5 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 75
+swapping 3 with 75 and min val is 0
+swapping 75 with 3 and min val is 0
+swapping 3 with 75 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 34567
+swapping 3 with 34567 and min val is 0
+swapping 34567 with 3 and min val is 0
+swapping 3 with 34567 and min val is 3
+swapping 3 with 3 and min val is 0
+min val 76
+swapping 3 with 76 and min val is 0
+swapping 76 with 3 and min val is 0
+swapping 4 with 76 and min val is 4
+swapping 3 with 4 and min val is 0
+min val 86
+swapping 4 with 86 and min val is 0
+swapping 86 with 4 and min val is 0
+swapping 4 with 86 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 5
+swapping 4 with 5 and min val is 0
+swapping 5 with 4 and min val is 0
+swapping 4 with 5 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 56
+swapping 4 with 56 and min val is 0
+swapping 56 with 4 and min val is 0
+swapping 4 with 56 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 5
+swapping 4 with 5 and min val is 0
+swapping 5 with 4 and min val is 0
+swapping 4 with 5 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 46
+swapping 4 with 46 and min val is 0
+swapping 46 with 4 and min val is 0
+swapping 4 with 46 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 6
+swapping 4 with 6 and min val is 0
+swapping 6 with 4 and min val is 0
+swapping 4 with 6 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 75
+swapping 4 with 75 and min val is 0
+swapping 75 with 4 and min val is 0
+swapping 4 with 75 and min val is 4
+swapping 4 with 4 and min val is 0
+min val 76
+swapping 4 with 76 and min val is 0
+swapping 76 with 4 and min val is 0
+swapping 5 with 76 and min val is 5
+swapping 4 with 5 and min val is 0
+min val 57
+swapping 5 with 57 and min val is 0
+swapping 57 with 5 and min val is 0
+swapping 5 with 57 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 6
+swapping 5 with 6 and min val is 0
+swapping 6 with 5 and min val is 0
+swapping 5 with 6 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 8
+swapping 5 with 8 and min val is 0
+swapping 5 with 8 and min val is 0
+swapping 2 with 5 and min val is 2
+swapping 8 with 5 and min val is 0
+min val 9
+swapping 8 with 9 and min val is 0
+swapping 5 with 9 and min val is 5
+swapping 9 with 9 and min val is 0
+swapping 5 with 9 and min val is 0
+min val 9
+swapping 5 with 9 and min val is 5
+swapping 9 with 9 and min val is 0
+swapping 9 with 9 and min val is 0
+swapping 5 with 9 and min val is 0
+min val 7
+swapping 9 with 7 and min val is 0
+swapping 5 with 9 and min val is 5
+swapping 7 with 9 and min val is 0
+swapping 5 with 7 and min val is 0
+min val 6
+swapping 7 with 6 and min val is 0
+swapping 6 with 7 and min val is 0
+swapping 5 with 7 and min val is 5
+swapping 7 with 5 and min val is 0
+min val 86
+swapping 5 with 86 and min val is 0
+swapping 1 with 86 and min val is 1
+swapping 86 with 1 and min val is 0
+swapping 1 with 86 and min val is 0
+min val 34567
+swapping 86 with 34567 and min val is 0
+swapping 34567 with 86 and min val is 0
+swapping 34567 with 86 and min val is 0
+swapping 3 with 86 and min val is 3
+min val 76
+swapping 1 with 76 and min val is 1
+swapping 34567 with 1 and min val is 0
+swapping 1 with 34567 and min val is 0
+swapping 34567 with 1 and min val is 0
+min val 7
+swapping 1 with 7 and min val is 0
+swapping 1 with 1 and min val is 1
+swapping 7 with 1 and min val is 0
+swapping 1 with 7 and min val is 0
+min val 76856
+swapping 7 with 76856 and min val is 0
+swapping 76856 with 7 and min val is 0
+swapping 5 with 76856 and min val is 5
+swapping 7 with 5 and min val is 0
+min val 57
+swapping 5 with 57 and min val is 0
+swapping 5 with 57 and min val is 0
+swapping 57 with 5 and min val is 0
+swapping 3 with 5 and min val is 3
+min val 6
+swapping 57 with 6 and min val is 0
+swapping 1 with 6 and min val is 1
+swapping 6 with 1 and min val is 0
+swapping 1 with 6 and min val is 0
+min val 7
+swapping 6 with 7 and min val is 0
+swapping 7 with 6 and min val is 0
+swapping 6 with 7 and min val is 0
+swapping 5 with 6 and min val is 5
+min val 6
+swapping 7 with 6 and min val is 0
+swapping 2 with 6 and min val is 2
+swapping 6 with 7 and min val is 0
+swapping 2 with 6 and min val is 0
+min val 8
+swapping 6 with 8 and min val is 0
+swapping 8 with 6 and min val is 0
+swapping 2 with 8 and min val is 2
+swapping 6 with 2 and min val is 0
+min val 56
+swapping 2 with 56 and min val is 0
+swapping 56 with 2 and min val is 0
+swapping 5 with 56 and min val is 5
+swapping 2 with 5 and min val is 0
+min val 9
+swapping 5 with 9 and min val is 0
+swapping 9 with 5 and min val is 0
+swapping 5 with 5 and min val is 5
+swapping 5 with 5 and min val is 0
+min val 74
+swapping 5 with 74 and min val is 0
+swapping 5 with 74 and min val is 0
+swapping 5 with 74 and min val is 0
+swapping 2 with 5 and min val is 2
+min val 32
+swapping 74 with 32 and min val is 0
+swapping 2 with 32 and min val is 2
+swapping 32 with 2 and min val is 0
+swapping 74 with 32 and min val is 0
+min val 46
+swapping 32 with 46 and min val is 0
+swapping 32 with 46 and min val is 0
+swapping 2 with 46 and min val is 2
+swapping 32 with 46 and min val is 0
+min val 7
+swapping 2 with 7 and min val is 0
+swapping 2 with 7 and min val is 0
+swapping 2 with 7 and min val is 0
+swapping 2 with 7 and min val is 2
+min val 65
+swapping 7 with 65 and min val is 0
+swapping 7 with 65 and min val is 0
+swapping 2 with 65 and min val is 2
+swapping 7 with 65 and min val is 0
+min val 7
+swapping 2 with 7 and min val is 0
+swapping 5 with 7 and min val is 5
+swapping 2 with 7 and min val is 0
+swapping 2 with 7 and min val is 0
+min val 889
+swapping 7 with 889 and min val is 0
+swapping 7 with 889 and min val is 0
+swapping 7 with 889 and min val is 0
+swapping 5 with 889 and min val is 5
+min val 6
+swapping 889 with 6 and min val is 0
+swapping 889 with 6 and min val is 0
+swapping 889 with 6 and min val is 0
+swapping 5 with 6 and min val is 5
+min val 9
+swapping 6 with 9 and min val is 0
+swapping 6 with 9 and min val is 0
+swapping 6 with 9 and min val is 0
+swapping 2 with 9 and min val is 2
+min val 6
+swapping 9 with 6 and min val is 0
+swapping 4 with 6 and min val is 4
+swapping 9 with 6 and min val is 0
+swapping 9 with 6 and min val is 0
+min val 7
+swapping 4 with 7 and min val is 0
+swapping 4 with 7 and min val is 0
+swapping 4 with 7 and min val is 0
+swapping 5 with 7 and min val is 5
+min val 78
+swapping 7 with 78 and min val is 0
+swapping 7 with 78 and min val is 0
+swapping 7 with 78 and min val is 0
+swapping 4 with 78 and min val is 4
+min val 9
+swapping 78 with 9 and min val is 0
+swapping 78 with 9 and min val is 0
+swapping 78 with 9 and min val is 0
+swapping 6 with 9 and min val is 6
+min val 8
+swapping 9 with 8 and min val is 0
+swapping 9 with 8 and min val is 0
+swapping 2 with 8 and min val is 2
+swapping 9 with 8 and min val is 0
+min val 7
+swapping 8 with 7 and min val is 0
+swapping 8 with 7 and min val is 0
+swapping 8 with 7 and min val is 0
+swapping 6 with 7 and min val is 6
+min val 6
+swapping 7 with 6 and min val is 0
+swapping 3 with 6 and min val is 3
+swapping 7 with 6 and min val is 0
+swapping 7 with 6 and min val is 0
+min val 23
+swapping 2 with 23 and min val is 2
+swapping 3 with 23 and min val is 0
+swapping 3 with 23 and min val is 0
+swapping 3 with 23 and min val is 0
+min val 6
+swapping 2 with 6 and min val is 0
+swapping 2 with 6 and min val is 2
+swapping 2 with 6 and min val is 0
+swapping 2 with 6 and min val is 0
+min val 76856
+swapping 2 with 76856 and min val is 0
+swapping 2 with 76856 and min val is 0
+swapping 2 with 76856 and min val is 0
+swapping 3 with 76856 and min val is 3
+min val 75
+swapping 6 with 75 and min val is 6
+swapping 76856 with 75 and min val is 0
+swapping 76856 with 75 and min val is 0
+swapping 76856 with 75 and min val is 0
+min val 56
+swapping 6 with 56 and min val is 0
+swapping 6 with 56 and min val is 0
+swapping 6 with 56 and min val is 6
+swapping 6 with 56 and min val is 0
+min val 425
+swapping 6 with 425 and min val is 0
+swapping 6 with 425 and min val is 0
+swapping 6 with 425 and min val is 0
+swapping 6 with 425 and min val is 6
+min val 2345
+swapping 425 with 2345 and min val is 0
+swapping 425 with 2345 and min val is 0
+swapping 425 with 2345 and min val is 0
+swapping 6 with 2345 and min val is 6
+min val 6347
+swapping 2345 with 6347 and min val is 0
+swapping 2345 with 6347 and min val is 0
+swapping 2345 with 6347 and min val is 0
+swapping 2 with 6347 and min val is 2
+min val 458
+swapping 6347 with 458 and min val is 0
+swapping 6347 with 458 and min val is 0
+swapping 6 with 458 and min val is 6
+swapping 6347 with 458 and min val is 0
+min val 34
+swapping 458 with 34 and min val is 0
+swapping 458 with 34 and min val is 0
+swapping 3 with 34 and min val is 3
+swapping 458 with 34 and min val is 0
+min val 6
+swapping 3 with 6 and min val is 0
+swapping 3 with 6 and min val is 0
+swapping 3 with 6 and min val is 3
+swapping 3 with 6 and min val is 0
+min val 53
+swapping 6 with 53 and min val is 0
+swapping 3 with 53 and min val is 3
+swapping 6 with 53 and min val is 0
+swapping 6 with 53 and min val is 0
+min val 467
+swapping 3 with 467 and min val is 0
+swapping 4 with 467 and min val is 4
+swapping 3 with 467 and min val is 0
+swapping 3 with 467 and min val is 0
+min val 7
+swapping 4 with 7 and min val is 0
+swapping 6 with 7 and min val is 6
+swapping 4 with 7 and min val is 0
+swapping 4 with 7 and min val is 0
+min val 68
+swapping 6 with 68 and min val is 0
+swapping 6 with 68 and min val is 6
+swapping 6 with 68 and min val is 0
+swapping 6 with 68 and min val is 0
+min val 23
+swapping 6 with 23 and min val is 0
+swapping 6 with 23 and min val is 0
+swapping 6 with 23 and min val is 6
+swapping 6 with 23 and min val is 0
+min val 253
+swapping 23 with 253 and min val is 0
+swapping 23 with 253 and min val is 0
+swapping 3 with 253 and min val is 3
+swapping 23 with 253 and min val is 0
+min val 56
+swapping 3 with 56 and min val is 0
+swapping 3 with 56 and min val is 0
+swapping 3 with 56 and min val is 0
+swapping 6 with 56 and min val is 6
+min val 6
+swapping 56 with 6 and min val is 0
+swapping 3 with 6 and min val is 3
+swapping 56 with 6 and min val is 0
+swapping 56 with 6 and min val is 0
+min val 8
+swapping 3 with 8 and min val is 0
+swapping 3 with 8 and min val is 0
+swapping 3 with 8 and min val is 0
+swapping 3 with 8 and min val is 3
+min val 6
+swapping 8 with 6 and min val is 0
+swapping 3 with 6 and min val is 3
+swapping 8 with 6 and min val is 0
+swapping 8 with 6 and min val is 0
+min val 9
+swapping 3 with 9 and min val is 0
+swapping 3 with 9 and min val is 0
+swapping 3 with 9 and min val is 0
+swapping 3 with 9 and min val is 3
+min val 345
+swapping 9 with 345 and min val is 0
+swapping 9 with 345 and min val is 0
+swapping 3 with 345 and min val is 3
+swapping 9 with 345 and min val is 0
+min val 7
+swapping 3 with 7 and min val is 3
+swapping 3 with 7 and min val is 0
+swapping 3 with 7 and min val is 0
+swapping 3 with 7 and min val is 0
+min val 23
+swapping 3 with 23 and min val is 0
+swapping 3 with 23 and min val is 3
+swapping 3 with 23 and min val is 0
+swapping 3 with 23 and min val is 0
+min val 5
+swapping 3 with 5 and min val is 0
+swapping 3 with 5 and min val is 3
+swapping 3 with 5 and min val is 0
+swapping 3 with 5 and min val is 0
+min val 2346
+swapping 3 with 2346 and min val is 0
+swapping 3 with 2346 and min val is 3
+swapping 3 with 2346 and min val is 0
+swapping 3 with 2346 and min val is 0
+min val 3457
+swapping 2346 with 3457 and min val is 0
+swapping 2346 with 3457 and min val is 0
+swapping 3457 with 2346 and min val is 0
+swapping 3 with 3457 and min val is 3
+min val 4568
+swapping 3457 with 4568 and min val is 0
+swapping 3457 with 4568 and min val is 0
+swapping 3 with 4568 and min val is 3
+swapping 3457 with 4568 and min val is 0
+min val 567
+swapping 3 with 567 and min val is 0
+swapping 3 with 567 and min val is 0
+swapping 3 with 567 and min val is 3
+swapping 3 with 567 and min val is 0
+min val 6
+swapping 3 with 6 and min val is 0
+swapping 3 with 6 and min val is 0
+swapping 3 with 6 and min val is 3
+swapping 3 with 6 and min val is 0
+min val 356
+swapping 3 with 356 and min val is 0
+swapping 3 with 356 and min val is 0
+swapping 4 with 356 and min val is 4
+swapping 3 with 356 and min val is 0
+min val 3457
+swapping 4 with 3457 and min val is 0
+swapping 3 with 3457 and min val is 3
+swapping 4 with 3457 and min val is 0
+swapping 4 with 3457 and min val is 0
+min val 8
+swapping 3 with 8 and min val is 0
+swapping 3 with 8 and min val is 0
+swapping 3 with 8 and min val is 0
+swapping 4 with 8 and min val is 4
+min val 8
+swapping 8 with 8 and min val is 0
+swapping 3 with 8 and min val is 3
+swapping 8 with 8 and min val is 0
+swapping 8 with 8 and min val is 0
+min val 798
+swapping 8 with 798 and min val is 0
+swapping 8 with 798 and min val is 0
+swapping 3 with 798 and min val is 3
+swapping 8 with 798 and min val is 0
+min val 3456
+swapping 798 with 3456 and min val is 0
+swapping 798 with 3456 and min val is 0
+swapping 798 with 3456 and min val is 0
+swapping 3 with 3456 and min val is 3
+min val 7
+swapping 3 with 7 and min val is 3
+swapping 3456 with 7 and min val is 0
+swapping 3456 with 7 and min val is 0
+swapping 3456 with 7 and min val is 0
+min val 3456
+swapping 3 with 3456 and min val is 0
+swapping 5 with 3456 and min val is 5
+swapping 3 with 3456 and min val is 0
+swapping 3 with 3456 and min val is 0
+min val 5
+swapping 3 with 5 and min val is 3
+swapping 3456 with 5 and min val is 0
+swapping 3456 with 5 and min val is 0
+swapping 3456 with 5 and min val is 0
+min val 54
+swapping 5 with 54 and min val is 0
+swapping 5 with 54 and min val is 5
+swapping 5 with 54 and min val is 0
+swapping 5 with 54 and min val is 0
+min val 56
+swapping 54 with 56 and min val is 0
+swapping 54 with 56 and min val is 0
+swapping 5 with 56 and min val is 5
+swapping 54 with 56 and min val is 0
+min val 3457
+swapping 3 with 3457 and min val is 3
+swapping 56 with 3457 and min val is 0
+swapping 56 with 3457 and min val is 0
+swapping 56 with 3457 and min val is 0
+min val 5
+swapping 3 with 5 and min val is 0
+swapping 3 with 5 and min val is 0
+swapping 3 with 5 and min val is 0
+swapping 3 with 5 and min val is 3
+min val 6
+swapping 5 with 6 and min val is 0
+swapping 5 with 6 and min val is 0
+swapping 5 with 6 and min val is 0
+swapping 3 with 6 and min val is 3
+min val 7
+swapping 6 with 7 and min val is 0
+swapping 6 with 7 and min val is 0
+swapping 6 with 7 and min val is 0
+swapping 3 with 7 and min val is 3
+min val 9
+swapping 7 with 9 and min val is 0
+swapping 3 with 9 and min val is 3
+swapping 7 with 9 and min val is 0
+swapping 7 with 9 and min val is 0
+min val 7
+swapping 3 with 7 and min val is 3
+swapping 3 with 7 and min val is 0
+swapping 3 with 7 and min val is 0
+swapping 3 with 7 and min val is 0
+min val 6
+swapping 3 with 6 and min val is 0
+swapping 3 with 6 and min val is 0
+swapping 4 with 6 and min val is 4
+swapping 3 with 6 and min val is 0
+min val 35
+swapping 3 with 35 and min val is 3
+swapping 4 with 35 and min val is 0
+swapping 4 with 35 and min val is 0
+swapping 4 with 35 and min val is 0
+min val 5
+swapping 3 with 5 and min val is 0
+swapping 3 with 5 and min val is 0
+swapping 5 with 5 and min val is 5
+swapping 3 with 5 and min val is 0
+min val 23
+swapping 3 with 23 and min val is 3
+swapping 5 with 23 and min val is 0
+swapping 5 with 23 and min val is 0
+swapping 5 with 23 and min val is 0
+min val 34
+swapping 3 with 34 and min val is 0
+swapping 3 with 34 and min val is 0
+swapping 3 with 34 and min val is 0
+swapping 5 with 34 and min val is 5
+min val 8
+swapping 34 with 8 and min val is 0
+swapping 34 with 8 and min val is 0
+swapping 34 with 8 and min val is 0
+swapping 3 with 8 and min val is 3
+min val 85
+swapping 8 with 85 and min val is 0
+swapping 5 with 85 and min val is 5
+swapping 8 with 85 and min val is 0
+swapping 8 with 85 and min val is 0
+min val 6
+swapping 8 with 6 and min val is 0
+swapping 8 with 6 and min val is 0
+swapping 8 with 6 and min val is 0
+swapping 5 with 6 and min val is 5
+min val 5
+swapping 6 with 5 and min val is 0
+swapping 6 with 5 and min val is 0
+swapping 6 with 5 and min val is 0
+swapping 3 with 5 and min val is 3
+min val 4657456
+swapping 5 with 4657456 and min val is 0
+swapping 5 with 4657456 and min val is 0
+swapping 5 with 4657456 and min val is 0
+swapping 4 with 4657456 and min val is 4
+min val 74
+swapping 4657456 with 74 and min val is 0
+swapping 4657456 with 74 and min val is 0
+swapping 4657456 with 74 and min val is 0
+swapping 6 with 74 and min val is 6
+min val 9
+swapping 74 with 9 and min val is 0
+swapping 6 with 9 and min val is 6
+swapping 74 with 9 and min val is 0
+swapping 74 with 9 and min val is 0
+min val 425
+swapping 6 with 425 and min val is 0
+swapping 4 with 425 and min val is 4
+swapping 6 with 425 and min val is 0
+swapping 6 with 425 and min val is 0
+min val 56
+swapping 4 with 56 and min val is 0
+swapping 4 with 56 and min val is 4
+swapping 4 with 56 and min val is 0
+swapping 4 with 56 and min val is 0
+min val 7
+swapping 4 with 7 and min val is 4
+swapping 4 with 7 and min val is 0
+swapping 4 with 7 and min val is 0
+swapping 4 with 7 and min val is 0
+min val 9
+swapping 7 with 9 and min val is 0
+swapping 5 with 9 and min val is 5
+swapping 7 with 9 and min val is 0
+swapping 7 with 9 and min val is 0
+min val 45
+swapping 9 with 45 and min val is 0
+swapping 4 with 45 and min val is 4
+swapping 9 with 45 and min val is 0
+swapping 9 with 45 and min val is 0
+min val 23
+swapping 45 with 23 and min val is 0
+swapping 45 with 23 and min val is 0
+swapping 45 with 23 and min val is 0
+swapping 4 with 23 and min val is 4
+min val 45
+swapping 4 with 45 and min val is 4
+swapping 23 with 45 and min val is 0
+swapping 23 with 45 and min val is 0
+swapping 23 with 45 and min val is 0
+min val 7
+swapping 6 with 7 and min val is 6
+swapping 4 with 7 and min val is 0
+swapping 4 with 7 and min val is 0
+swapping 4 with 7 and min val is 0
+min val 84
+swapping 4 with 84 and min val is 0
+swapping 4 with 84 and min val is 0
+swapping 4 with 84 and min val is 4
+swapping 4 with 84 and min val is 0
+min val 64
+swapping 4 with 64 and min val is 0
+swapping 4 with 64 and min val is 0
+swapping 4 with 64 and min val is 0
+swapping 4 with 64 and min val is 4
+min val 63
+swapping 64 with 63 and min val is 0
+swapping 64 with 63 and min val is 0
+swapping 64 with 63 and min val is 0
+swapping 4 with 63 and min val is 4
+min val 6
+swapping 63 with 6 and min val is 0
+swapping 6 with 6 and min val is 6
+swapping 63 with 6 and min val is 0
+swapping 63 with 6 and min val is 0
+min val 8768
+swapping 6 with 8768 and min val is 0
+swapping 4 with 8768 and min val is 4
+swapping 6 with 8768 and min val is 0
+swapping 6 with 8768 and min val is 0
+min val 92
+swapping 4 with 92 and min val is 0
+swapping 4 with 92 and min val is 0
+swapping 6 with 92 and min val is 6
+swapping 4 with 92 and min val is 0
+min val 6
+swapping 6 with 6 and min val is 0
+swapping 6 with 6 and min val is 0
+swapping 6 with 6 and min val is 6
+swapping 6 with 6 and min val is 0
+min val 45
+swapping 6 with 45 and min val is 0
+swapping 6 with 45 and min val is 0
+swapping 4 with 45 and min val is 4
+swapping 6 with 45 and min val is 0
+min val 6
+swapping 4 with 6 and min val is 0
+swapping 6 with 6 and min val is 6
+swapping 4 with 6 and min val is 0
+swapping 4 with 6 and min val is 0
+min val 8
+swapping 6 with 8 and min val is 0
+swapping 6 with 8 and min val is 0
+swapping 4 with 8 and min val is 4
+swapping 6 with 8 and min val is 0
+min val 9
+swapping 6 with 9 and min val is 6
+swapping 8 with 9 and min val is 0
+swapping 8 with 9 and min val is 0
+swapping 8 with 9 and min val is 0
+min val 45
+swapping 6 with 45 and min val is 6
+swapping 6 with 45 and min val is 0
+swapping 6 with 45 and min val is 0
+swapping 6 with 45 and min val is 0
+min val 7
+swapping 6 with 7 and min val is 0
+swapping 6 with 7 and min val is 0
+swapping 6 with 7 and min val is 0
+swapping 6 with 7 and min val is 6
+min val 6
+swapping 7 with 6 and min val is 0
+swapping 7 with 6 and min val is 0
+swapping 7 with 6 and min val is 0
+swapping 4 with 6 and min val is 4
+min val 88
+swapping 6 with 88 and min val is 0
+swapping 6 with 88 and min val is 0
+swapping 6 with 88 and min val is 6
+swapping 6 with 88 and min val is 0
+min val 9
+swapping 4 with 9 and min val is 4
+swapping 88 with 9 and min val is 0
+swapping 88 with 9 and min val is 0
+swapping 88 with 9 and min val is 0
+min val 34
+swapping 4 with 34 and min val is 0
+swapping 4 with 34 and min val is 4
+swapping 4 with 34 and min val is 0
+swapping 4 with 34 and min val is 0
+min val 24
+swapping 34 with 24 and min val is 0
+swapping 34 with 24 and min val is 0
+swapping 34 with 24 and min val is 0
+swapping 4 with 24 and min val is 4
+min val 67
+swapping 24 with 67 and min val is 0
+swapping 24 with 67 and min val is 0
+swapping 3 with 67 and min val is 3
+swapping 24 with 67 and min val is 0
+min val 23
+swapping 3 with 23 and min val is 0
+swapping 4 with 23 and min val is 4
+swapping 3 with 23 and min val is 0
+swapping 3 with 23 and min val is 0
+min val 56
+swapping 4 with 56 and min val is 0
+swapping 4 with 56 and min val is 0
+swapping 4 with 56 and min val is 0
+swapping 4 with 56 and min val is 4
+min val 23
+swapping 56 with 23 and min val is 0
+swapping 4 with 23 and min val is 4
+swapping 56 with 23 and min val is 0
+swapping 56 with 23 and min val is 0
+min val 57
+swapping 4 with 57 and min val is 0
+swapping 4 with 57 and min val is 0
+swapping 4 with 57 and min val is 4
+swapping 4 with 57 and min val is 0
+min val 53
+swapping 4 with 53 and min val is 0
+swapping 4 with 53 and min val is 0
+swapping 4 with 53 and min val is 0
+swapping 5 with 53 and min val is 5
+min val 45
+swapping 53 with 45 and min val is 0
+swapping 53 with 45 and min val is 0
+swapping 4 with 45 and min val is 4
+swapping 53 with 45 and min val is 0
+min val 6
+swapping 45 with 6 and min val is 0
+swapping 4 with 6 and min val is 4
+swapping 45 with 6 and min val is 0
+swapping 45 with 6 and min val is 0
+min val 54
+swapping 4 with 54 and min val is 0
+swapping 4 with 54 and min val is 0
+swapping 4 with 54 and min val is 0
+swapping 4 with 54 and min val is 4
+min val 56
+swapping 54 with 56 and min val is 0
+swapping 54 with 56 and min val is 0
+swapping 54 with 56 and min val is 0
+swapping 4 with 54 and min val is 4
+min val 45
+swapping 56 with 45 and min val is 0
+swapping 5 with 45 and min val is 5
+swapping 56 with 45 and min val is 0
+swapping 56 with 45 and min val is 0
+min val 6
+swapping 56 with 6 and min val is 0
+swapping 56 with 6 and min val is 0
+swapping 3 with 6 and min val is 3
+swapping 56 with 6 and min val is 0
+min val 54
+swapping 6 with 54 and min val is 0
+swapping 6 with 54 and min val is 0
+swapping 6 with 54 and min val is 0
+swapping 5 with 54 and min val is 5
+min val 8
+swapping 6 with 8 and min val is 6
+swapping 54 with 8 and min val is 0
+swapping 54 with 8 and min val is 0
+swapping 54 with 8 and min val is 0
+min val 45
+swapping 6 with 45 and min val is 0
+swapping 6 with 45 and min val is 0
+swapping 6 with 45 and min val is 6
+swapping 6 with 45 and min val is 0
+min val 6
+swapping 6 with 6 and min val is 0
+swapping 6 with 6 and min val is 0
+swapping 6 with 6 and min val is 6
+swapping 6 with 6 and min val is 0
+min val 34
+swapping 6 with 34 and min val is 0
+swapping 6 with 34 and min val is 0
+swapping 6 with 34 and min val is 6
+swapping 6 with 34 and min val is 0
+min val 568
+swapping 6 with 568 and min val is 0
+swapping 6 with 568 and min val is 0
+swapping 6 with 568 and min val is 6
+swapping 6 with 568 and min val is 0
+min val 58
+swapping 568 with 58 and min val is 0
+swapping 568 with 58 and min val is 0
+swapping 6 with 58 and min val is 6
+swapping 568 with 58 and min val is 0
+min val 6579
+swapping 6 with 6579 and min val is 0
+swapping 6 with 6579 and min val is 6
+swapping 6 with 6579 and min val is 0
+swapping 6 with 6579 and min val is 0
+min val 8
+swapping 6579 with 8 and min val is 0
+swapping 5 with 8 and min val is 5
+swapping 6579 with 8 and min val is 0
+swapping 6579 with 8 and min val is 0
+min val 7
+swapping 5 with 7 and min val is 5
+swapping 8 with 7 and min val is 0
+swapping 8 with 7 and min val is 0
+swapping 8 with 7 and min val is 0
+min val 34
+swapping 5 with 34 and min val is 0
+swapping 5 with 34 and min val is 0
+swapping 5 with 34 and min val is 5
+swapping 5 with 34 and min val is 0
+min val 43
+swapping 34 with 43 and min val is 0
+swapping 34 with 43 and min val is 0
+swapping 34 with 43 and min val is 0
+swapping 5 with 43 and min val is 5
+min val 56
+swapping 5 with 56 and min val is 5
+swapping 43 with 56 and min val is 0
+swapping 43 with 56 and min val is 0
+swapping 43 with 56 and min val is 0
+min val 32
+swapping 5 with 32 and min val is 0
+swapping 4 with 32 and min val is 4
+swapping 5 with 32 and min val is 0
+swapping 5 with 32 and min val is 0
+min val 657
+swapping 5 with 657 and min val is 5
+swapping 4 with 657 and min val is 0
+swapping 4 with 657 and min val is 0
+swapping 4 with 657 and min val is 0
+min val 456
+swapping 5 with 456 and min val is 0
+swapping 5 with 456 and min val is 0
+swapping 5 with 456 and min val is 0
+swapping 3 with 456 and min val is 3
+min val 870
+swapping 456 with 870 and min val is 0
+swapping 4 with 870 and min val is 4
+swapping 456 with 870 and min val is 0
+swapping 456 with 870 and min val is 0
+min val 89
+swapping 4 with 89 and min val is 4
+swapping 4 with 89 and min val is 0
+swapping 4 with 89 and min val is 0
+swapping 4 with 89 and min val is 0
+min val 8
+swapping 4 with 8 and min val is 0
+swapping 4 with 8 and min val is 0
+swapping 4 with 8 and min val is 0
+swapping 5 with 8 and min val is 5
+min val 643
+swapping 8 with 643 and min val is 0
+swapping 8 with 643 and min val is 0
+swapping 8 with 643 and min val is 0
+swapping 4 with 643 and min val is 4
+min val 89
+swapping 643 with 89 and min val is 0
+swapping 6 with 89 and min val is 6
+swapping 643 with 89 and min val is 0
+swapping 643 with 89 and min val is 0
+min val 45
+swapping 5 with 45 and min val is 5
+swapping 89 with 45 and min val is 0
+swapping 89 with 45 and min val is 0
+swapping 89 with 45 and min val is 0
+min val 98
+swapping 5 with 98 and min val is 0
+swapping 5 with 98 and min val is 0
+swapping 5 with 98 and min val is 0
+swapping 4 with 98 and min val is 4
+min val 345
+swapping 98 with 345 and min val is 0
+swapping 5 with 345 and min val is 5
+swapping 98 with 345 and min val is 0
+swapping 98 with 345 and min val is 0
+min val 67
+swapping 5 with 67 and min val is 0
+swapping 5 with 67 and min val is 0
+swapping 5 with 67 and min val is 5
+swapping 5 with 67 and min val is 0
+min val 12
+swapping 5 with 12 and min val is 0
+swapping 5 with 12 and min val is 0
+swapping 5 with 12 and min val is 0
+swapping 6 with 12 and min val is 6
+min val 44
+swapping 12 with 44 and min val is 0
+swapping 12 with 44 and min val is 0
+swapping 12 with 44 and min val is 0
+swapping 5 with 44 and min val is 5
+min val 54
+swapping 44 with 54 and min val is 0
+swapping 44 with 54 and min val is 0
+swapping 44 with 54 and min val is 0
+swapping 6 with 54 and min val is 6
+min val 23
+swapping 54 with 23 and min val is 0
+swapping 54 with 23 and min val is 0
+swapping 54 with 23 and min val is 0
+swapping 6 with 23 and min val is 6
+min val 345
+swapping 23 with 345 and min val is 0
+swapping 5 with 345 and min val is 5
+swapping 23 with 345 and min val is 0
+swapping 23 with 345 and min val is 0
+min val 78
+swapping 7 with 78 and min val is 7
+swapping 345 with 78 and min val is 0
+swapping 345 with 78 and min val is 0
+swapping 345 with 78 and min val is 0
+min val 7
+swapping 7 with 7 and min val is 0
+swapping 7 with 7 and min val is 0
+swapping 7 with 7 and min val is 0
+swapping 6 with 7 and min val is 6
+min val 78
+swapping 7 with 78 and min val is 0
+swapping 7 with 78 and min val is 0
+swapping 7 with 78 and min val is 0
+swapping 7 with 78 and min val is 7
+min val 23
+swapping 78 with 23 and min val is 0
+swapping 78 with 23 and min val is 0
+swapping 78 with 23 and min val is 0
+swapping 4 with 23 and min val is 4
+min val 64
+swapping 23 with 64 and min val is 0
+swapping 5 with 64 and min val is 5
+swapping 23 with 64 and min val is 0
+swapping 23 with 64 and min val is 0
+min val 9
+swapping 5 with 9 and min val is 0
+swapping 6 with 9 and min val is 6
+swapping 5 with 9 and min val is 0
+swapping 5 with 9 and min val is 0
+min val 34
+swapping 6 with 34 and min val is 0
+swapping 7 with 34 and min val is 7
+swapping 6 with 34 and min val is 0
+swapping 6 with 34 and min val is 0
+min val 8
+swapping 34 with 8 and min val is 0
+swapping 6 with 8 and min val is 6
+swapping 34 with 8 and min val is 0
+swapping 34 with 8 and min val is 0
+min val 3456
+swapping 8 with 3456 and min val is 0
+swapping 8 with 3456 and min val is 0
+swapping 8 with 3456 and min val is 0
+swapping 6 with 3456 and min val is 6
+min val 7
+swapping 3456 with 7 and min val is 0
+swapping 3456 with 7 and min val is 0
+swapping 6 with 7 and min val is 6
+swapping 3456 with 7 and min val is 0
+min val 8
+swapping 6 with 8 and min val is 0
+swapping 6 with 8 and min val is 0
+swapping 6 with 8 and min val is 0
+swapping 6 with 8 and min val is 6
+min val 2346
+swapping 8 with 2346 and min val is 0
+swapping 6 with 2346 and min val is 6
+swapping 8 with 2346 and min val is 0
+swapping 8 with 2346 and min val is 0
+min val 345
+swapping 8 with 345 and min val is 0
+swapping 8 with 345 and min val is 0
+swapping 6 with 345 and min val is 6
+swapping 8 with 345 and min val is 0
+min val 7
+swapping 6 with 7 and min val is 0
+swapping 3 with 7 and min val is 3
+swapping 6 with 7 and min val is 0
+swapping 6 with 7 and min val is 0
+min val 76
+swapping 6 with 76 and min val is 6
+swapping 3 with 76 and min val is 0
+swapping 3 with 76 and min val is 0
+swapping 3 with 76 and min val is 0
+min val 24
+swapping 76 with 24 and min val is 0
+swapping 6 with 24 and min val is 6
+swapping 76 with 24 and min val is 0
+swapping 76 with 24 and min val is 0
+min val 873
+swapping 76 with 873 and min val is 0
+swapping 76 with 873 and min val is 0
+swapping 6 with 873 and min val is 6
+swapping 76 with 873 and min val is 0
+min val 345
+swapping 873 with 345 and min val is 0
+swapping 873 with 345 and min val is 0
+swapping 873 with 345 and min val is 0
+swapping 7 with 345 and min val is 7
+min val 7
+swapping 7 with 7 and min val is 7
+swapping 345 with 7 and min val is 0
+swapping 345 with 7 and min val is 0
+swapping 345 with 7 and min val is 0
+min val 456
+swapping 7 with 456 and min val is 0
+swapping 7 with 456 and min val is 0
+swapping 7 with 456 and min val is 7
+swapping 7 with 456 and min val is 0
+min val 67
+swapping 7 with 67 and min val is 0
+swapping 7 with 67 and min val is 7
+swapping 7 with 67 and min val is 0
+swapping 7 with 67 and min val is 0
+min val 642
+swapping 7 with 642 and min val is 0
+swapping 7 with 642 and min val is 0
+swapping 7 with 642 and min val is 0
+swapping 3 with 642 and min val is 3
+min val 69
+swapping 642 with 69 and min val is 0
+swapping 4 with 69 and min val is 4
+swapping 642 with 69 and min val is 0
+swapping 642 with 69 and min val is 0
+min val 346
+swapping 4 with 346 and min val is 0
+swapping 4 with 346 and min val is 0
+swapping 4 with 346 and min val is 4
+swapping 4 with 346 and min val is 0
+min val 467
+swapping 4 with 467 and min val is 0
+swapping 4 with 467 and min val is 0
+swapping 4 with 467 and min val is 0
+swapping 6 with 467 and min val is 6
+min val 7
+swapping 467 with 7 and min val is 0
+swapping 4 with 7 and min val is 4
+swapping 467 with 7 and min val is 0
+swapping 467 with 7 and min val is 0
+min val 35
+swapping 4 with 35 and min val is 0
+swapping 4 with 35 and min val is 0
+swapping 7 with 35 and min val is 7
+swapping 4 with 35 and min val is 0
+min val 8
+swapping 35 with 8 and min val is 0
+swapping 35 with 8 and min val is 0
+swapping 35 with 8 and min val is 0
+swapping 7 with 8 and min val is 7
+min val 53
+swapping 8 with 53 and min val is 0
+swapping 8 with 53 and min val is 0
+swapping 4 with 53 and min val is 4
+swapping 8 with 53 and min val is 0
+min val 65
+swapping 4 with 65 and min val is 0
+swapping 4 with 65 and min val is 0
+swapping 4 with 65 and min val is 0
+swapping 6 with 65 and min val is 6
+min val 9
+swapping 65 with 9 and min val is 0
+swapping 4 with 9 and min val is 4
+swapping 65 with 9 and min val is 0
+swapping 65 with 9 and min val is 0
+min val 654
+swapping 4 with 654 and min val is 0
+swapping 7 with 654 and min val is 7
+swapping 4 with 654 and min val is 0
+swapping 4 with 654 and min val is 0
+min val 34
+swapping 7 with 34 and min val is 0
+swapping 7 with 34 and min val is 7
+swapping 7 with 34 and min val is 0
+swapping 34 with 7 and min val is 0
+min val 643
+swapping 34 with 643 and min val is 0
+swapping 34 with 643 and min val is 0
+swapping 34 with 643 and min val is 0
+swapping 7 with 643 and min val is 7
+min val 57
+swapping 643 with 57 and min val is 0
+swapping 643 with 57 and min val is 0
+swapping 7 with 57 and min val is 7
+swapping 643 with 57 and min val is 0
+min val 8
+swapping 57 with 8 and min val is 0
+swapping 5 with 8 and min val is 5
+swapping 57 with 8 and min val is 0
+swapping 57 with 8 and min val is 0
+min val 58
+swapping 5 with 58 and min val is 0
+swapping 5 with 58 and min val is 0
+swapping 5 with 58 and min val is 0
+swapping 7 with 58 and min val is 7
+min val 432
+swapping 58 with 432 and min val is 0
+swapping 7 with 432 and min val is 7
+swapping 58 with 432 and min val is 0
+swapping 58 with 432 and min val is 0
+min val 45
+swapping 432 with 45 and min val is 0
+swapping 5 with 45 and min val is 5
+swapping 432 with 45 and min val is 0
+swapping 432 with 45 and min val is 0
+min val 57
+swapping 45 with 57 and min val is 0
+swapping 45 with 57 and min val is 0
+swapping 45 with 57 and min val is 0
+swapping 7 with 57 and min val is 7
+min val 68
+swapping 57 with 68 and min val is 0
+swapping 7 with 68 and min val is 7
+swapping 57 with 68 and min val is 0
+swapping 57 with 68 and min val is 0
+min val 56
+swapping 7 with 56 and min val is 0
+swapping 6 with 56 and min val is 6
+swapping 7 with 56 and min val is 0
+swapping 7 with 56 and min val is 0
+min val 453
+swapping 6 with 453 and min val is 0
+swapping 6 with 453 and min val is 0
+swapping 7 with 453 and min val is 7
+swapping 6 with 453 and min val is 0
+min val 52
+swapping 453 with 52 and min val is 0
+swapping 453 with 52 and min val is 0
+swapping 453 with 52 and min val is 0
+swapping 7 with 52 and min val is 7
+min val 6435
+swapping 52 with 6435 and min val is 0
+swapping 52 with 6435 and min val is 0
+swapping 52 with 6435 and min val is 0
+swapping 6 with 6435 and min val is 6
+min val 7
+swapping 6435 with 7 and min val is 0
+swapping 5 with 7 and min val is 5
+swapping 6435 with 7 and min val is 0
+swapping 6435 with 7 and min val is 0
+min val 8
+swapping 7 with 8 and min val is 0
+swapping 7 with 8 and min val is 7
+swapping 7 with 8 and min val is 0
+swapping 7 with 8 and min val is 0
+min val 69
+swapping 7 with 69 and min val is 0
+swapping 7 with 69 and min val is 0
+swapping 7 with 69 and min val is 0
+swapping 6 with 69 and min val is 6
+min val 45
+swapping 8 with 45 and min val is 8
+swapping 69 with 45 and min val is 0
+swapping 69 with 45 and min val is 0
+swapping 69 with 45 and min val is 0
+min val 57
+swapping 8 with 57 and min val is 0
+swapping 8 with 57 and min val is 0
+swapping 8 with 57 and min val is 0
+swapping 7 with 57 and min val is 7
+min val 45
+swapping 8 with 45 and min val is 8
+swapping 57 with 45 and min val is 0
+swapping 57 with 45 and min val is 0
+swapping 57 with 45 and min val is 0
+min val 34
+swapping 7 with 34 and min val is 7
+swapping 8 with 34 and min val is 0
+swapping 8 with 34 and min val is 0
+swapping 8 with 34 and min val is 0
+min val 234
+swapping 7 with 234 and min val is 0
+swapping 3 with 234 and min val is 3
+swapping 7 with 234 and min val is 0
+swapping 7 with 234 and min val is 0
+min val 245
+swapping 234 with 245 and min val is 0
+swapping 7 with 245 and min val is 7
+swapping 234 with 245 and min val is 0
+swapping 234 with 245 and min val is 0
+min val 534
+swapping 245 with 534 and min val is 0
+swapping 8 with 534 and min val is 8
+swapping 245 with 534 and min val is 0
+swapping 245 with 534 and min val is 0
+min val 78
+swapping 8 with 78 and min val is 0
+swapping 8 with 78 and min val is 0
+swapping 8 with 78 and min val is 0
+swapping 8 with 78 and min val is 8
+min val 84
+swapping 78 with 84 and min val is 0
+swapping 78 with 84 and min val is 0
+swapping 78 with 84 and min val is 0
+swapping 5 with 84 and min val is 5
+min val 22
+swapping 84 with 22 and min val is 0
+swapping 84 with 22 and min val is 0
+swapping 8 with 22 and min val is 8
+swapping 84 with 22 and min val is 0
+min val 8
+swapping 8 with 8 and min val is 8
+swapping 8 with 8 and min val is 0
+swapping 8 with 8 and min val is 0
+swapping 8 with 8 and min val is 0
+min val 234
+swapping 8 with 234 and min val is 0
+swapping 8 with 234 and min val is 0
+swapping 8 with 234 and min val is 0
+swapping 8 with 234 and min val is 8
+min val 2345
+swapping 234 with 2345 and min val is 0
+swapping 8 with 2345 and min val is 8
+swapping 234 with 2345 and min val is 0
+swapping 234 with 2345 and min val is 0
+min val 674
+swapping 2345 with 674 and min val is 0
+swapping 5 with 674 and min val is 5
+swapping 2345 with 674 and min val is 0
+swapping 2345 with 674 and min val is 0
+min val 67
+swapping 8 with 67 and min val is 8
+swapping 674 with 67 and min val is 0
+swapping 674 with 67 and min val is 0
+swapping 674 with 67 and min val is 0
+min val 11
+swapping 8 with 11 and min val is 0
+swapping 8 with 11 and min val is 0
+swapping 9 with 11 and min val is 9
+swapping 8 with 11 and min val is 0
+min val 45
+swapping 11 with 45 and min val is 0
+swapping 3 with 45 and min val is 3
+swapping 11 with 45 and min val is 0
+swapping 11 with 45 and min val is 0
+min val 22
+swapping 8 with 22 and min val is 8
+swapping 3 with 22 and min val is 0
+swapping 3 with 22 and min val is 0
+swapping 3 with 22 and min val is 0
+min val 2345
+swapping 8 with 2345 and min val is 0
+swapping 7 with 2345 and min val is 7
+swapping 8 with 2345 and min val is 0
+swapping 8 with 2345 and min val is 0
+min val 435
+swapping 7 with 435 and min val is 0
+swapping 7 with 435 and min val is 0
+swapping 7 with 435 and min val is 0
+swapping 9 with 435 and min val is 9
+min val 75
+swapping 435 with 75 and min val is 0
+swapping 7 with 75 and min val is 7
+swapping 435 with 75 and min val is 0
+swapping 435 with 75 and min val is 0
+min val 56
+swapping 7 with 56 and min val is 0
+swapping 7 with 56 and min val is 7
+swapping 7 with 56 and min val is 0
+swapping 7 with 56 and min val is 0
+min val 43
+swapping 7 with 43 and min val is 0
+swapping 7 with 43 and min val is 0
+swapping 7 with 43 and min val is 0
+swapping 7 with 43 and min val is 7
+min val 34
+swapping 43 with 34 and min val is 0
+swapping 43 with 34 and min val is 0
+swapping 43 with 34 and min val is 0
+swapping 3 with 34 and min val is 3
+min val 43
+swapping 9 with 43 and min val is 9
+swapping 34 with 43 and min val is 0
+swapping 34 with 43 and min val is 0
+swapping 34 with 43 and min val is 0
+min val 65
+swapping 9 with 65 and min val is 0
+swapping 2 with 65 and min val is 2
+swapping 9 with 65 and min val is 0
+swapping 9 with 65 and min val is 0
+min val 43
+swapping 2 with 43 and min val is 0
+swapping 2 with 43 and min val is 0
+swapping 7 with 43 and min val is 7
+swapping 2 with 43 and min val is 0
+min val 23
+swapping 7 with 23 and min val is 0
+swapping 3 with 23 and min val is 3
+swapping 7 with 23 and min val is 0
+swapping 7 with 23 and min val is 0
+min val 56
+swapping 3 with 56 and min val is 0
+swapping 3 with 56 and min val is 0
+swapping 11 with 56 and min val is 11
+swapping 3 with 56 and min val is 0
+min val 425
+swapping 11 with 425 and min val is 0
+swapping 22 with 425 and min val is 22
+swapping 11 with 425 and min val is 0
+swapping 11 with 425 and min val is 0
+min val 43
+swapping 22 with 43 and min val is 0
+swapping 22 with 43 and min val is 0
+swapping 22 with 43 and min val is 0
+swapping 7 with 43 and min val is 7
+min val 58
+swapping 43 with 58 and min val is 0
+swapping 22 with 58 and min val is 22
+swapping 43 with 58 and min val is 0
+swapping 43 with 58 and min val is 0
+min val 56
+swapping 22 with 56 and min val is 0
+swapping 7 with 56 and min val is 7
+swapping 22 with 56 and min val is 0
+swapping 22 with 56 and min val is 0
+min val 54
+swapping 56 with 54 and min val is 0
+swapping 8 with 54 and min val is 8
+swapping 56 with 54 and min val is 0
+swapping 56 with 54 and min val is 0
+min val 7
+swapping 56 with 7 and min val is 0
+swapping 56 with 7 and min val is 0
+swapping 56 with 7 and min val is 0
+swapping 7 with 7 and min val is 7
+min val 43
+swapping 7 with 43 and min val is 0
+swapping 7 with 43 and min val is 0
+swapping 7 with 43 and min val is 0
+swapping 3 with 43 and min val is 3
+min val 56
+swapping 43 with 56 and min val is 0
+swapping 43 with 56 and min val is 0
+swapping 43 with 56 and min val is 0
+swapping 4 with 56 and min val is 4
+min val 345
+swapping 56 with 345 and min val is 0
+swapping 56 with 345 and min val is 0
+swapping 56 with 345 and min val is 0
+swapping 7 with 345 and min val is 7
+min val 90
+swapping 345 with 90 and min val is 0
+swapping 345 with 90 and min val is 0
+swapping 23 with 90 and min val is 23
+swapping 345 with 90 and min val is 0
+min val 45
+swapping 8 with 45 and min val is 8
+swapping 23 with 45 and min val is 0
+swapping 23 with 45 and min val is 0
+swapping 23 with 45 and min val is 0
+min val 56
+swapping 8 with 56 and min val is 0
+swapping 8 with 56 and min val is 0
+swapping 8 with 56 and min val is 0
+swapping 23 with 56 and min val is 23
+min val 54
+swapping 56 with 54 and min val is 0
+swapping 8 with 54 and min val is 8
+swapping 56 with 54 and min val is 0
+swapping 56 with 54 and min val is 0
+min val 86
+swapping 54 with 86 and min val is 0
+swapping 54 with 86 and min val is 0
+swapping 8 with 86 and min val is 8
+swapping 54 with 86 and min val is 0
+min val 45
+swapping 8 with 45 and min val is 0
+swapping 4 with 45 and min val is 4
+swapping 8 with 45 and min val is 0
+swapping 8 with 45 and min val is 0
+min val 6347
+swapping 4 with 6347 and min val is 0
+swapping 4 with 6347 and min val is 0
+swapping 23 with 6347 and min val is 23
+swapping 4 with 6347 and min val is 0
+min val 54
+swapping 6347 with 54 and min val is 0
+swapping 6347 with 54 and min val is 0
+swapping 6347 with 54 and min val is 0
+swapping 8 with 54 and min val is 8
+min val 34
+swapping 54 with 34 and min val is 0
+swapping 54 with 34 and min val is 0
+swapping 4 with 34 and min val is 4
+swapping 54 with 34 and min val is 0
+min val 45
+swapping 4 with 45 and min val is 0
+swapping 4 with 45 and min val is 0
+swapping 4 with 45 and min val is 0
+swapping 23 with 45 and min val is 23
+min val 56
+swapping 45 with 56 and min val is 0
+swapping 45 with 56 and min val is 0
+swapping 45 with 56 and min val is 0
+swapping 6 with 56 and min val is 6
+min val 43
+swapping 56 with 43 and min val is 0
+swapping 56 with 43 and min val is 0
+swapping 8 with 43 and min val is 8
+swapping 56 with 43 and min val is 0
+min val 52
+swapping 4 with 52 and min val is 4
+swapping 43 with 52 and min val is 0
+swapping 43 with 52 and min val is 0
+swapping 43 with 52 and min val is 0
+min val 8
+swapping 4 with 8 and min val is 0
+swapping 4 with 8 and min val is 0
+swapping 4 with 8 and min val is 0
+swapping 8 with 8 and min val is 8
+min val 56
+swapping 8 with 56 and min val is 8
+swapping 8 with 56 and min val is 0
+swapping 8 with 56 and min val is 0
+swapping 8 with 56 and min val is 0
+min val 54
+swapping 8 with 54 and min val is 0
+swapping 24 with 54 and min val is 24
+swapping 8 with 54 and min val is 0
+swapping 8 with 54 and min val is 0
+min val 567
+swapping 54 with 567 and min val is 0
+swapping 54 with 567 and min val is 0
+swapping 54 with 567 and min val is 0
+swapping 9 with 567 and min val is 9
+min val 56
+swapping 567 with 56 and min val is 0
+swapping 8 with 56 and min val is 8
+swapping 567 with 56 and min val is 0
+swapping 567 with 56 and min val is 0
+min val 56
+swapping 56 with 56 and min val is 0
+swapping 56 with 56 and min val is 0
+swapping 56 with 56 and min val is 0
+swapping 32 with 56 and min val is 32
+min val 78
+swapping 56 with 78 and min val is 0
+swapping 56 with 78 and min val is 0
+swapping 56 with 78 and min val is 0
+swapping 32 with 78 and min val is 32
+min val 34
+swapping 34 with 34 and min val is 34
+swapping 78 with 34 and min val is 0
+swapping 78 with 34 and min val is 0
+swapping 78 with 34 and min val is 0
+min val 34
+swapping 34 with 34 and min val is 0
+swapping 34 with 34 and min val is 0
+swapping 34 with 34 and min val is 0
+swapping 4 with 34 and min val is 4
+min val 56
+swapping 34 with 56 and min val is 0
+swapping 34 with 56 and min val is 0
+swapping 34 with 56 and min val is 0
+swapping 34 with 56 and min val is 34
+min val 9
+swapping 9 with 9 and min val is 9
+swapping 56 with 9 and min val is 0
+swapping 56 with 9 and min val is 0
+swapping 56 with 9 and min val is 0
+min val 43
+swapping 9 with 43 and min val is 0
+swapping 9 with 43 and min val is 0
+swapping 9 with 43 and min val is 9
+swapping 9 with 43 and min val is 0
+min val 62
+swapping 43 with 62 and min val is 0
+swapping 43 with 62 and min val is 0
+swapping 43 with 62 and min val is 0
+swapping 34 with 62 and min val is 34
+min val 56
+swapping 62 with 56 and min val is 0
+swapping 62 with 56 and min val is 0
+swapping 62 with 56 and min val is 0
+swapping 34 with 56 and min val is 34
+min val 54
+swapping 56 with 54 and min val is 0
+swapping 6 with 54 and min val is 6
+swapping 56 with 54 and min val is 0
+swapping 56 with 54 and min val is 0
+min val 34
+swapping 34 with 34 and min val is 34
+swapping 6 with 34 and min val is 0
+swapping 6 with 34 and min val is 0
+swapping 6 with 34 and min val is 0
+min val 456
+swapping 34 with 456 and min val is 0
+swapping 8 with 456 and min val is 8
+swapping 34 with 456 and min val is 0
+swapping 34 with 456 and min val is 0
+min val 64
+swapping 8 with 64 and min val is 0
+swapping 34 with 64 and min val is 34
+swapping 8 with 64 and min val is 0
+swapping 8 with 64 and min val is 0
+min val 56
+swapping 34 with 56 and min val is 0
+swapping 34 with 56 and min val is 34
+swapping 34 with 56 and min val is 0
+swapping 34 with 56 and min val is 0
+min val 34
+swapping 34 with 34 and min val is 34
+swapping 34 with 34 and min val is 0
+swapping 34 with 34 and min val is 0
+swapping 34 with 34 and min val is 0
+min val 34
+swapping 34 with 34 and min val is 34
+swapping 34 with 34 and min val is 0
+swapping 34 with 34 and min val is 0
+swapping 34 with 34 and min val is 0
+min val 65
+swapping 34 with 65 and min val is 0
+swapping 34 with 65 and min val is 0
+swapping 34 with 65 and min val is 0
+swapping 34 with 65 and min val is 34
+min val 345
+swapping 34 with 345 and min val is 34
+swapping 65 with 345 and min val is 0
+swapping 65 with 345 and min val is 0
+swapping 65 with 345 and min val is 0
+min val 78
+swapping 34 with 78 and min val is 0
+swapping 34 with 78 and min val is 0
+swapping 35 with 78 and min val is 35
+swapping 34 with 78 and min val is 0
+min val 58
+swapping 35 with 58 and min val is 0
+swapping 35 with 58 and min val is 0
+swapping 35 with 58 and min val is 0
+swapping 35 with 58 and min val is 35
+min val 57
+swapping 58 with 57 and min val is 0
+swapping 35 with 57 and min val is 35
+swapping 58 with 57 and min val is 0
+swapping 58 with 57 and min val is 0
+min val 68
+swapping 36 with 68 and min val is 36
+swapping 35 with 68 and min val is 0
+swapping 35 with 68 and min val is 0
+swapping 35 with 68 and min val is 0
+min val 568
+swapping 36 with 568 and min val is 0
+swapping 42 with 568 and min val is 42
+swapping 36 with 568 and min val is 0
+swapping 36 with 568 and min val is 0
+min val 769
+swapping 568 with 769 and min val is 0
+swapping 568 with 769 and min val is 0
+swapping 568 with 769 and min val is 0
+swapping 36 with 769 and min val is 36
+min val 8
+swapping 769 with 8 and min val is 0
+swapping 769 with 8 and min val is 0
+swapping 769 with 8 and min val is 0
+swapping 2 with 8 and min val is 2
+min val 9
+swapping 8 with 9 and min val is 0
+swapping 8 with 9 and min val is 0
+swapping 8 with 9 and min val is 0
+swapping 9 with 9 and min val is 9
+min val 6657
+swapping 8 with 6657 and min val is 0
+swapping 8 with 6657 and min val is 0
+swapping 8 with 6657 and min val is 0
+swapping 43 with 6657 and min val is 43
+min val 57
+swapping 6657 with 57 and min val is 0
+swapping 6657 with 57 and min val is 0
+swapping 6657 with 57 and min val is 0
+swapping 8 with 57 and min val is 8
+min val 98
+swapping 57 with 98 and min val is 0
+swapping 57 with 98 and min val is 0
+swapping 57 with 98 and min val is 0
+swapping 43 with 98 and min val is 43
+min val 6
+swapping 6 with 6 and min val is 6
+swapping 98 with 6 and min val is 0
+swapping 98 with 6 and min val is 0
+swapping 98 with 6 and min val is 0
+min val 56
+swapping 6 with 56 and min val is 0
+swapping 43 with 56 and min val is 43
+swapping 6 with 56 and min val is 0
+swapping 6 with 56 and min val is 0
+min val 67
+swapping 43 with 67 and min val is 0
+swapping 2 with 67 and min val is 2
+swapping 43 with 67 and min val is 0
+swapping 43 with 67 and min val is 0
+min val 9876
+swapping 2 with 9876 and min val is 0
+swapping 2 with 9876 and min val is 0
+swapping 2 with 9876 and min val is 0
+swapping 3 with 9876 and min val is 3
+min val 7876
+swapping 9876 with 7876 and min val is 0
+swapping 45 with 7876 and min val is 45
+swapping 9876 with 7876 and min val is 0
+swapping 9876 with 7876 and min val is 0
+min val 35
+swapping 35 with 35 and min val is 35
+swapping 7876 with 35 and min val is 0
+swapping 7876 with 35 and min val is 0
+swapping 7876 with 35 and min val is 0
+min val 64
+swapping 35 with 64 and min val is 0
+swapping 2 with 64 and min val is 2
+swapping 35 with 64 and min val is 0
+swapping 35 with 64 and min val is 0
+min val 452
+swapping 2 with 452 and min val is 0
+swapping 2 with 452 and min val is 0
+swapping 2 with 452 and min val is 0
+swapping 45 with 452 and min val is 45
+min val 6867
+swapping 452 with 6867 and min val is 0
+swapping 452 with 6867 and min val is 0
+swapping 452 with 6867 and min val is 0
+swapping 4 with 6867 and min val is 4
+min val 9
+swapping 6867 with 9 and min val is 0
+swapping 6867 with 9 and min val is 0
+swapping 6867 with 9 and min val is 0
+swapping 4 with 9 and min val is 4
+min val 96756
+swapping 9 with 96756 and min val is 0
+swapping 2 with 96756 and min val is 2
+swapping 9 with 96756 and min val is 0
+swapping 9 with 96756 and min val is 0
+min val 654
+swapping 2 with 654 and min val is 0
+swapping 2 with 654 and min val is 0
+swapping 2 with 654 and min val is 0
+swapping 45 with 654 and min val is 45
+min val 4657456
+swapping 654 with 4657456 and min val is 0
+swapping 2 with 4657456 and min val is 2
+swapping 654 with 4657456 and min val is 0
+swapping 654 with 4657456 and min val is 0
+min val 69
+swapping 2 with 69 and min val is 0
+swapping 45 with 69 and min val is 45
+swapping 2 with 69 and min val is 0
+swapping 2 with 69 and min val is 0
+min val 25
+swapping 25 with 25 and min val is 25
+swapping 2 with 25 and min val is 0
+swapping 2 with 25 and min val is 0
+swapping 2 with 25 and min val is 0
+min val 12
+swapping 25 with 12 and min val is 0
+swapping 25 with 12 and min val is 0
+swapping 25 with 12 and min val is 0
+swapping 12 with 12 and min val is 12
+min val 86
+swapping 12 with 86 and min val is 0
+swapping 2 with 86 and min val is 2
+swapping 12 with 86 and min val is 0
+swapping 12 with 86 and min val is 0
+min val 23
+swapping 12 with 23 and min val is 0
+swapping 12 with 23 and min val is 0
+swapping 4 with 23 and min val is 4
+swapping 12 with 23 and min val is 0
+min val 58
+swapping 4 with 58 and min val is 0
+swapping 3 with 58 and min val is 3
+swapping 4 with 58 and min val is 0
+swapping 4 with 58 and min val is 0
+min val 43
+swapping 43 with 43 and min val is 43
+swapping 58 with 43 and min val is 0
+swapping 58 with 43 and min val is 0
+swapping 58 with 43 and min val is 0
+min val 245
+swapping 43 with 245 and min val is 0
+swapping 43 with 245 and min val is 0
+swapping 43 with 245 and min val is 0
+swapping 45 with 245 and min val is 45
+min val 36
+swapping 245 with 36 and min val is 0
+swapping 245 with 36 and min val is 0
+swapping 245 with 36 and min val is 0
+swapping 36 with 36 and min val is 36
+min val 45
+swapping 36 with 45 and min val is 0
+swapping 36 with 45 and min val is 0
+swapping 36 with 45 and min val is 0
+swapping 4 with 45 and min val is 4
+min val 9
+swapping 9 with 9 and min val is 9
+swapping 45 with 9 and min val is 0
+swapping 45 with 9 and min val is 0
+swapping 45 with 9 and min val is 0
+min val 453
+swapping 9 with 453 and min val is 0
+swapping 9 with 453 and min val is 0
+swapping 9 with 453 and min val is 0
+swapping 43 with 453 and min val is 43
+min val 45
+swapping 453 with 45 and min val is 0
+swapping 4 with 45 and min val is 4
+swapping 453 with 45 and min val is 0
+swapping 453 with 45 and min val is 0
+min val 8
+swapping 4 with 8 and min val is 0
+swapping 4 with 8 and min val is 0
+swapping 4 with 8 and min val is 0
+swapping 8 with 8 and min val is 8
+min val 54
+swapping 8 with 54 and min val is 0
+swapping 8 with 54 and min val is 0
+swapping 9 with 54 and min val is 9
+swapping 8 with 54 and min val is 0
+min val 889
+swapping 54 with 889 and min val is 0
+swapping 8 with 889 and min val is 8
+swapping 54 with 889 and min val is 0
+swapping 54 with 889 and min val is 0
+min val 92
+swapping 8 with 92 and min val is 0
+swapping 5 with 92 and min val is 5
+swapping 8 with 92 and min val is 0
+swapping 8 with 92 and min val is 0
+min val 54
+swapping 92 with 54 and min val is 0
+swapping 92 with 54 and min val is 0
+swapping 92 with 54 and min val is 0
+swapping 45 with 54 and min val is 45
+min val 8
+swapping 3 with 8 and min val is 3
+swapping 54 with 8 and min val is 0
+swapping 54 with 8 and min val is 0
+swapping 54 with 8 and min val is 0
+min val 65
+swapping 8 with 65 and min val is 8
+swapping 3 with 65 and min val is 0
+swapping 3 with 65 and min val is 0
+swapping 3 with 65 and min val is 0
+min val 8
+swapping 8 with 8 and min val is 0
+swapping 8 with 8 and min val is 8
+swapping 8 with 8 and min val is 0
+swapping 8 with 8 and min val is 0
+min val 56
+swapping 8 with 56 and min val is 0
+swapping 8 with 56 and min val is 0
+swapping 8 with 56 and min val is 0
+swapping 4 with 56 and min val is 4
+min val 54
+swapping 8 with 54 and min val is 0
+swapping 8 with 54 and min val is 0
+swapping 46 with 54 and min val is 46
+swapping 8 with 54 and min val is 0
+min val 45
+swapping 54 with 45 and min val is 0
+swapping 4 with 45 and min val is 4
+swapping 54 with 45 and min val is 0
+swapping 54 with 45 and min val is 0
+min val 45
+swapping 45 with 45 and min val is 0
+swapping 8 with 45 and min val is 8
+swapping 45 with 45 and min val is 0
+swapping 45 with 45 and min val is 0
+min val 22
+swapping 8 with 22 and min val is 0
+swapping 8 with 22 and min val is 0
+swapping 8 with 22 and min val is 0
+swapping 22 with 22 and min val is 22
+min val 23
+swapping 23 with 23 and min val is 23
+swapping 22 with 23 and min val is 0
+swapping 22 with 23 and min val is 0
+swapping 22 with 23 and min val is 0
+min val 34
+swapping 23 with 34 and min val is 0
+swapping 23 with 34 and min val is 0
+swapping 34 with 34 and min val is 34
+swapping 23 with 34 and min val is 0
+min val 32
+swapping 34 with 32 and min val is 0
+swapping 32 with 32 and min val is 32
+swapping 34 with 32 and min val is 0
+swapping 34 with 32 and min val is 0
+min val 53
+swapping 32 with 53 and min val is 0
+swapping 32 with 53 and min val is 0
+swapping 32 with 53 and min val is 0
+swapping 5 with 53 and min val is 5
+min val 467
+swapping 53 with 467 and min val is 0
+swapping 53 with 467 and min val is 0
+swapping 53 with 467 and min val is 0
+swapping 45 with 467 and min val is 45
+min val 32
+swapping 32 with 32 and min val is 32
+swapping 467 with 32 and min val is 0
+swapping 467 with 32 and min val is 0
+swapping 467 with 32 and min val is 0
+min val 34
+swapping 34 with 34 and min val is 34
+swapping 32 with 34 and min val is 0
+swapping 32 with 34 and min val is 0
+swapping 32 with 34 and min val is 0
+min val 54
+swapping 34 with 54 and min val is 0
+swapping 34 with 54 and min val is 0
+swapping 34 with 54 and min val is 0
+swapping 5 with 54 and min val is 5
+min val 2346
+swapping 54 with 2346 and min val is 0
+swapping 54 with 2346 and min val is 0
+swapping 54 with 2346 and min val is 0
+swapping 6 with 2346 and min val is 6
+min val 3457
+swapping 2346 with 3457 and min val is 0
+swapping 2346 with 3457 and min val is 0
+swapping 2346 with 3457 and min val is 0
+swapping 46 with 3457 and min val is 46
+min val 34
+swapping 3457 with 34 and min val is 0
+swapping 3457 with 34 and min val is 0
+swapping 34 with 34 and min val is 34
+swapping 3457 with 34 and min val is 0
+min val 54
+swapping 34 with 54 and min val is 0
+swapping 5 with 54 and min val is 5
+swapping 34 with 54 and min val is 0
+swapping 34 with 54 and min val is 0
+min val 54
+swapping 34 with 54 and min val is 0
+swapping 52 with 54 and min val is 52
+swapping 34 with 54 and min val is 0
+swapping 34 with 54 and min val is 0
+min val 85
+swapping 52 with 85 and min val is 0
+swapping 6 with 85 and min val is 6
+swapping 52 with 85 and min val is 0
+swapping 52 with 85 and min val is 0
+min val 45
+swapping 45 with 45 and min val is 45
+swapping 85 with 45 and min val is 0
+swapping 85 with 45 and min val is 0
+swapping 85 with 45 and min val is 0
+min val 798
+swapping 45 with 798 and min val is 0
+swapping 45 with 798 and min val is 0
+swapping 8 with 798 and min val is 8
+swapping 45 with 798 and min val is 0
+min val 45
+swapping 45 with 45 and min val is 45
+swapping 798 with 45 and min val is 0
+swapping 798 with 45 and min val is 0
+swapping 798 with 45 and min val is 0
+min val 45
+swapping 45 with 45 and min val is 45
+swapping 45 with 45 and min val is 0
+swapping 45 with 45 and min val is 0
+swapping 45 with 45 and min val is 0
+min val 543
+swapping 45 with 543 and min val is 0
+swapping 45 with 543 and min val is 0
+swapping 9 with 543 and min val is 9
+swapping 45 with 543 and min val is 0
+min val 34
+swapping 9 with 34 and min val is 0
+swapping 23 with 34 and min val is 23
+swapping 9 with 34 and min val is 0
+swapping 9 with 34 and min val is 0
+min val 56
+swapping 34 with 56 and min val is 0
+swapping 34 with 56 and min val is 0
+swapping 34 with 56 and min val is 0
+swapping 9 with 56 and min val is 9
+min val 34
+swapping 34 with 34 and min val is 34
+swapping 56 with 34 and min val is 0
+swapping 56 with 34 and min val is 0
+swapping 56 with 34 and min val is 0
+min val 78
+swapping 34 with 78 and min val is 0
+swapping 34 with 78 and min val is 0
+swapping 52 with 78 and min val is 52
+swapping 34 with 78 and min val is 0
+min val 89
+swapping 52 with 89 and min val is 0
+swapping 52 with 89 and min val is 0
+swapping 5 with 89 and min val is 5
+swapping 52 with 89 and min val is 0
+min val 679
+swapping 5 with 679 and min val is 0
+swapping 5 with 679 and min val is 0
+swapping 5 with 679 and min val is 0
+swapping 23 with 679 and min val is 23
+min val 782
+swapping 679 with 782 and min val is 0
+swapping 53 with 782 and min val is 53
+swapping 679 with 782 and min val is 0
+swapping 679 with 782 and min val is 0
+min val 4764
+swapping 53 with 4764 and min val is 0
+swapping 53 with 4764 and min val is 0
+swapping 53 with 4764 and min val is 53
+swapping 53 with 4764 and min val is 0
+min val 56
+swapping 4764 with 56 and min val is 0
+swapping 4764 with 56 and min val is 0
+swapping 4764 with 56 and min val is 0
+swapping 5 with 56 and min val is 5
+min val 425
+swapping 56 with 425 and min val is 0
+swapping 56 with 425 and min val is 0
+swapping 56 with 425 and min val is 0
+swapping 53 with 425 and min val is 53
+min val 234
+swapping 425 with 234 and min val is 0
+swapping 425 with 234 and min val is 0
+swapping 425 with 234 and min val is 0
+swapping 54 with 234 and min val is 54
+min val 58
+swapping 234 with 58 and min val is 0
+swapping 5 with 58 and min val is 5
+swapping 234 with 58 and min val is 0
+swapping 234 with 58 and min val is 0
+min val 765
+swapping 5 with 765 and min val is 0
+swapping 5 with 765 and min val is 0
+swapping 5 with 765 and min val is 0
+swapping 54 with 765 and min val is 54
+min val 64
+swapping 765 with 64 and min val is 0
+swapping 765 with 64 and min val is 0
+swapping 765 with 64 and min val is 0
+swapping 6 with 64 and min val is 6
+min val 56
+swapping 64 with 56 and min val is 0
+swapping 23 with 56 and min val is 23
+swapping 64 with 56 and min val is 0
+swapping 64 with 56 and min val is 0
+min val 8768
+swapping 56 with 8768 and min val is 0
+swapping 5 with 8768 and min val is 5
+swapping 56 with 8768 and min val is 0
+swapping 56 with 8768 and min val is 0
+min val 45
+swapping 45 with 45 and min val is 45
+swapping 5 with 45 and min val is 0
+swapping 5 with 45 and min val is 0
+swapping 5 with 45 and min val is 0
+min val 543
+swapping 45 with 543 and min val is 0
+swapping 45 with 543 and min val is 0
+swapping 45 with 543 and min val is 0
+swapping 23 with 543 and min val is 23
+min val 6579
+swapping 543 with 6579 and min val is 0
+swapping 23 with 6579 and min val is 23
+swapping 543 with 6579 and min val is 0
+swapping 543 with 6579 and min val is 0
+min val 54
+swapping 6579 with 54 and min val is 0
+swapping 54 with 54 and min val is 54
+swapping 6579 with 54 and min val is 0
+swapping 6579 with 54 and min val is 0
+min val 67
+swapping 54 with 67 and min val is 0
+swapping 54 with 67 and min val is 0
+swapping 54 with 67 and min val is 0
+swapping 25 with 67 and min val is 25
+min val 57
+swapping 67 with 57 and min val is 0
+swapping 67 with 57 and min val is 0
+swapping 67 with 57 and min val is 0
+swapping 54 with 57 and min val is 54
+min val 44
+swapping 67 with 44 and min val is 0
+swapping 5 with 44 and min val is 5
+swapping 67 with 44 and min val is 0
+swapping 67 with 44 and min val is 0
+min val 52
+swapping 67 with 52 and min val is 0
+swapping 67 with 52 and min val is 0
+swapping 67 with 52 and min val is 0
+swapping 32 with 52 and min val is 32
+min val 45
+swapping 52 with 45 and min val is 0
+swapping 34 with 45 and min val is 34
+swapping 52 with 45 and min val is 0
+swapping 52 with 45 and min val is 0
+min val 546
+swapping 34 with 546 and min val is 0
+swapping 7 with 546 and min val is 7
+swapping 34 with 546 and min val is 0
+swapping 34 with 546 and min val is 0
+min val 47
+swapping 7 with 47 and min val is 0
+swapping 47 with 47 and min val is 47
+swapping 7 with 47 and min val is 0
+swapping 7 with 47 and min val is 0
+min val 56
+swapping 47 with 56 and min val is 0
+swapping 47 with 56 and min val is 0
+swapping 34 with 56 and min val is 34
+swapping 47 with 56 and min val is 0
+min val 534
+swapping 34 with 534 and min val is 0
+swapping 54 with 534 and min val is 54
+swapping 34 with 534 and min val is 0
+swapping 34 with 534 and min val is 0
+min val 54
+swapping 54 with 54 and min val is 0
+swapping 54 with 54 and min val is 0
+swapping 54 with 54 and min val is 0
+swapping 54 with 54 and min val is 54
+min val 34
+swapping 23 with 34 and min val is 23
+swapping 54 with 34 and min val is 0
+swapping 54 with 34 and min val is 0
+swapping 54 with 34 and min val is 0
+min val 562
+swapping 23 with 562 and min val is 0
+swapping 23 with 562 and min val is 0
+swapping 23 with 562 and min val is 0
+swapping 56 with 562 and min val is 56
+min val 879
+swapping 562 with 879 and min val is 0
+swapping 562 with 879 and min val is 0
+swapping 9 with 879 and min val is 9
+swapping 562 with 879 and min val is 0
+min val 34
+swapping 34 with 34 and min val is 34
+swapping 9 with 34 and min val is 0
+swapping 9 with 34 and min val is 0
+swapping 9 with 34 and min val is 0
+min val 32
+swapping 23 with 32 and min val is 23
+swapping 34 with 32 and min val is 0
+swapping 34 with 32 and min val is 0
+swapping 34 with 32 and min val is 0
+min val 45
+swapping 23 with 45 and min val is 0
+swapping 34 with 45 and min val is 34
+swapping 23 with 45 and min val is 0
+swapping 23 with 45 and min val is 0
+min val 89
+swapping 34 with 89 and min val is 34
+swapping 34 with 89 and min val is 0
+swapping 34 with 89 and min val is 0
+swapping 34 with 89 and min val is 0
+min val 345
+swapping 34 with 345 and min val is 0
+swapping 34 with 345 and min val is 34
+swapping 34 with 345 and min val is 0
+swapping 34 with 345 and min val is 0
+min val 43
+swapping 345 with 43 and min val is 0
+swapping 345 with 43 and min val is 0
+swapping 345 with 43 and min val is 0
+swapping 34 with 43 and min val is 34
+min val 67
+swapping 43 with 67 and min val is 0
+swapping 34 with 67 and min val is 34
+swapping 43 with 67 and min val is 0
+swapping 43 with 67 and min val is 0
+min val 12
+swapping 12 with 12 and min val is 12
+swapping 34 with 12 and min val is 0
+swapping 34 with 12 and min val is 0
+swapping 34 with 12 and min val is 0
+min val 43
+swapping 12 with 43 and min val is 0
+swapping 12 with 43 and min val is 0
+swapping 7 with 43 and min val is 7
+swapping 12 with 43 and min val is 0
+min val 45
+swapping 43 with 45 and min val is 0
+swapping 12 with 45 and min val is 12
+swapping 43 with 45 and min val is 0
+swapping 43 with 45 and min val is 0
+min val 43
+swapping 45 with 43 and min val is 0
+swapping 34 with 43 and min val is 34
+swapping 45 with 43 and min val is 0
+swapping 45 with 43 and min val is 0
+min val 78
+swapping 34 with 78 and min val is 0
+swapping 34 with 78 and min val is 0
+swapping 34 with 78 and min val is 0
+swapping 34 with 78 and min val is 34
+min val 64
+swapping 78 with 64 and min val is 0
+swapping 78 with 64 and min val is 0
+swapping 78 with 64 and min val is 0
+swapping 56 with 64 and min val is 56
+min val 23
+swapping 64 with 23 and min val is 0
+swapping 64 with 23 and min val is 0
+swapping 64 with 23 and min val is 0
+swapping 23 with 23 and min val is 23
+min val 45
+swapping 23 with 45 and min val is 0
+swapping 34 with 45 and min val is 34
+swapping 23 with 45 and min val is 0
+swapping 23 with 45 and min val is 0
+min val 2345
+swapping 56 with 2345 and min val is 56
+swapping 34 with 2345 and min val is 0
+swapping 34 with 2345 and min val is 0
+swapping 34 with 2345 and min val is 0
+min val 34
+swapping 34 with 34 and min val is 34
+swapping 56 with 34 and min val is 0
+swapping 56 with 34 and min val is 0
+swapping 56 with 34 and min val is 0
+min val 23
+swapping 34 with 23 and min val is 0
+swapping 34 with 23 and min val is 0
+swapping 23 with 23 and min val is 23
+swapping 34 with 23 and min val is 0
+min val 69
+swapping 23 with 69 and min val is 0
+swapping 23 with 69 and min val is 0
+swapping 56 with 69 and min val is 56
+swapping 23 with 69 and min val is 0
+min val 75
+swapping 56 with 75 and min val is 0
+swapping 56 with 75 and min val is 0
+swapping 56 with 75 and min val is 0
+swapping 36 with 75 and min val is 36
+min val 346
+swapping 75 with 346 and min val is 0
+swapping 75 with 346 and min val is 0
+swapping 75 with 346 and min val is 0
+swapping 56 with 346 and min val is 56
+min val 35
+swapping 346 with 35 and min val is 0
+swapping 346 with 35 and min val is 0
+swapping 35 with 35 and min val is 35
+swapping 346 with 35 and min val is 0
+min val 43
+swapping 43 with 43 and min val is 43
+swapping 35 with 43 and min val is 0
+swapping 35 with 43 and min val is 0
+swapping 35 with 43 and min val is 0
+min val 54
+swapping 43 with 54 and min val is 0
+swapping 43 with 54 and min val is 0
+swapping 43 with 54 and min val is 0
+swapping 43 with 54 and min val is 43
+min val 54
+swapping 54 with 54 and min val is 0
+swapping 54 with 54 and min val is 0
+swapping 54 with 54 and min val is 0
+swapping 54 with 54 and min val is 54
+min val 67
+swapping 54 with 67 and min val is 0
+swapping 54 with 67 and min val is 0
+swapping 54 with 67 and min val is 0
+swapping 56 with 67 and min val is 56
+min val 6347
+swapping 67 with 6347 and min val is 0
+swapping 54 with 6347 and min val is 54
+swapping 67 with 6347 and min val is 0
+swapping 67 with 6347 and min val is 0
+min val 56
+swapping 6347 with 56 and min val is 0
+swapping 43 with 56 and min val is 43
+swapping 6347 with 56 and min val is 0
+swapping 6347 with 56 and min val is 0
+min val 67
+swapping 56 with 67 and min val is 56
+swapping 43 with 67 and min val is 0
+swapping 43 with 67 and min val is 0
+swapping 43 with 67 and min val is 0
+min val 56
+swapping 56 with 56 and min val is 0
+swapping 8 with 56 and min val is 8
+swapping 56 with 56 and min val is 0
+swapping 56 with 56 and min val is 0
+min val 56
+swapping 56 with 56 and min val is 0
+swapping 56 with 56 and min val is 56
+swapping 56 with 56 and min val is 0
+swapping 56 with 56 and min val is 0
+min val 54
+swapping 54 with 54 and min val is 54
+swapping 56 with 54 and min val is 0
+swapping 56 with 54 and min val is 0
+swapping 56 with 54 and min val is 0
+min val 6435
+swapping 54 with 6435 and min val is 0
+swapping 34 with 6435 and min val is 34
+swapping 54 with 6435 and min val is 0
+swapping 54 with 6435 and min val is 0
+min val 22
+swapping 6435 with 22 and min val is 0
+swapping 6435 with 22 and min val is 0
+swapping 22 with 22 and min val is 22
+swapping 6435 with 22 and min val is 0
+min val 54
+swapping 54 with 54 and min val is 54
+swapping 22 with 54 and min val is 0
+swapping 22 with 54 and min val is 0
+swapping 22 with 54 and min val is 0
+min val 452
+swapping 22 with 452 and min val is 0
+swapping 22 with 452 and min val is 0
+swapping 43 with 452 and min val is 43
+swapping 22 with 452 and min val is 0
+min val 22
+swapping 22 with 22 and min val is 22
+swapping 43 with 22 and min val is 0
+swapping 43 with 22 and min val is 0
+swapping 43 with 22 and min val is 0
+min val 78
+swapping 22 with 78 and min val is 0
+swapping 43 with 78 and min val is 43
+swapping 22 with 78 and min val is 0
+swapping 22 with 78 and min val is 0
+min val 34
+swapping 43 with 34 and min val is 0
+swapping 34 with 34 and min val is 34
+swapping 43 with 34 and min val is 0
+swapping 43 with 34 and min val is 0
+min val 32
+swapping 32 with 32 and min val is 32
+swapping 34 with 32 and min val is 0
+swapping 34 with 32 and min val is 0
+swapping 34 with 32 and min val is 0
+min val 674
+swapping 32 with 674 and min val is 0
+swapping 56 with 674 and min val is 56
+swapping 32 with 674 and min val is 0
+swapping 32 with 674 and min val is 0
+min val 543
+swapping 32 with 543 and min val is 0
+swapping 43 with 543 and min val is 43
+swapping 32 with 543 and min val is 0
+swapping 32 with 543 and min val is 0
+min val 45
+swapping 43 with 45 and min val is 0
+swapping 44 with 45 and min val is 44
+swapping 43 with 45 and min val is 0
+swapping 43 with 45 and min val is 0
+min val 42
+swapping 42 with 42 and min val is 42
+swapping 45 with 42 and min val is 0
+swapping 45 with 42 and min val is 0
+swapping 45 with 42 and min val is 0
+min val 34
+swapping 42 with 34 and min val is 0
+swapping 42 with 34 and min val is 0
+swapping 34 with 34 and min val is 34
+swapping 42 with 34 and min val is 0
+min val 43
+swapping 34 with 43 and min val is 0
+swapping 43 with 43 and min val is 43
+swapping 34 with 43 and min val is 0
+swapping 34 with 43 and min val is 0
+min val 65
+swapping 34 with 65 and min val is 0
+swapping 34 with 65 and min val is 0
+swapping 34 with 65 and min val is 0
+swapping 43 with 65 and min val is 43
+min val 34
+swapping 65 with 34 and min val is 0
+swapping 65 with 34 and min val is 0
+swapping 65 with 34 and min val is 0
+swapping 34 with 34 and min val is 34
+min val 54
+swapping 34 with 54 and min val is 0
+swapping 54 with 54 and min val is 54
+swapping 34 with 54 and min val is 0
+swapping 34 with 54 and min val is 0
+min val 64
+swapping 54 with 64 and min val is 0
+swapping 54 with 64 and min val is 0
+swapping 54 with 64 and min val is 0
+swapping 57 with 64 and min val is 57
+min val 57
+swapping 64 with 57 and min val is 0
+swapping 34 with 57 and min val is 34
+swapping 64 with 57 and min val is 0
+swapping 64 with 57 and min val is 0
+min val 56
+swapping 34 with 56 and min val is 0
+swapping 45 with 56 and min val is 45
+swapping 34 with 56 and min val is 0
+swapping 34 with 56 and min val is 0
+min val 43
+swapping 56 with 43 and min val is 0
+swapping 43 with 43 and min val is 43
+swapping 56 with 43 and min val is 0
+swapping 56 with 43 and min val is 0
+min val 54
+swapping 43 with 54 and min val is 0
+swapping 43 with 54 and min val is 0
+swapping 34 with 54 and min val is 34
+swapping 43 with 54 and min val is 0
+min val 53
+swapping 53 with 53 and min val is 53
+swapping 54 with 53 and min val is 0
+swapping 54 with 53 and min val is 0
+swapping 54 with 53 and min val is 0
+min val 45
+swapping 45 with 45 and min val is 45
+swapping 54 with 45 and min val is 0
+swapping 54 with 45 and min val is 0
+swapping 54 with 45 and min val is 0
+min val 55
+swapping 54 with 55 and min val is 0
+swapping 54 with 55 and min val is 0
+swapping 54 with 55 and min val is 54
+swapping 54 with 55 and min val is 0
+min val 45
+swapping 54 with 45 and min val is 0
+swapping 54 with 45 and min val is 0
+swapping 45 with 45 and min val is 45
+swapping 54 with 45 and min val is 0
+min val 67
+swapping 45 with 67 and min val is 0
+swapping 45 with 67 and min val is 45
+swapping 45 with 67 and min val is 0
+swapping 45 with 67 and min val is 0
+min val 65
+swapping 45 with 65 and min val is 0
+swapping 45 with 65 and min val is 0
+swapping 45 with 65 and min val is 0
+swapping 34 with 65 and min val is 34
+min val 657
+swapping 65 with 657 and min val is 0
+swapping 65 with 657 and min val is 0
+swapping 65 with 657 and min val is 0
+swapping 55 with 657 and min val is 55
+min val 46
+swapping 657 with 46 and min val is 0
+swapping 657 with 46 and min val is 0
+swapping 45 with 46 and min val is 45
+swapping 657 with 46 and min val is 0
+min val 56
+swapping 45 with 56 and min val is 0
+swapping 56 with 56 and min val is 56
+swapping 45 with 56 and min val is 0
+swapping 45 with 56 and min val is 0
+min val 45
+swapping 45 with 45 and min val is 45
+swapping 56 with 45 and min val is 0
+swapping 56 with 45 and min val is 0
+swapping 56 with 45 and min val is 0
+min val 56
+swapping 56 with 56 and min val is 56
+swapping 45 with 56 and min val is 0
+swapping 45 with 56 and min val is 0
+swapping 45 with 56 and min val is 0
+min val 54
+swapping 56 with 54 and min val is 0
+swapping 34 with 54 and min val is 34
+swapping 56 with 54 and min val is 0
+swapping 56 with 54 and min val is 0
+min val 75
+swapping 34 with 75 and min val is 0
+swapping 34 with 75 and min val is 0
+swapping 57 with 75 and min val is 57
+swapping 34 with 75 and min val is 0
+min val 456
+swapping 57 with 456 and min val is 0
+swapping 57 with 456 and min val is 57
+swapping 57 with 456 and min val is 0
+swapping 57 with 456 and min val is 0
+min val 67
+swapping 57 with 67 and min val is 0
+swapping 57 with 67 and min val is 0
+swapping 57 with 67 and min val is 0
+swapping 57 with 67 and min val is 57
+min val 769
+swapping 67 with 769 and min val is 0
+swapping 67 with 769 and min val is 0
+swapping 45 with 769 and min val is 45
+swapping 67 with 769 and min val is 0
+min val 67
+swapping 45 with 67 and min val is 0
+swapping 45 with 67 and min val is 0
+swapping 45 with 67 and min val is 0
+swapping 57 with 67 and min val is 57
+min val 452
+swapping 67 with 452 and min val is 0
+swapping 67 with 452 and min val is 0
+swapping 45 with 452 and min val is 45
+swapping 67 with 452 and min val is 0
+min val 635
+swapping 45 with 635 and min val is 0
+swapping 62 with 635 and min val is 62
+swapping 45 with 635 and min val is 0
+swapping 45 with 635 and min val is 0
+min val 56
+swapping 56 with 56 and min val is 56
+swapping 45 with 56 and min val is 0
+swapping 45 with 56 and min val is 0
+swapping 45 with 56 and min val is 0
+min val 45
+swapping 56 with 45 and min val is 0
+swapping 56 with 45 and min val is 0
+swapping 56 with 45 and min val is 0
+swapping 45 with 45 and min val is 45
+min val 67
+swapping 45 with 67 and min val is 0
+swapping 45 with 67 and min val is 0
+swapping 45 with 67 and min val is 0
+swapping 64 with 67 and min val is 64
+min val 64
+swapping 67 with 64 and min val is 0
+swapping 45 with 64 and min val is 45
+swapping 67 with 64 and min val is 0
+swapping 67 with 64 and min val is 0
+min val 6867
+swapping 64 with 6867 and min val is 0
+swapping 64 with 6867 and min val is 0
+swapping 64 with 6867 and min val is 0
+swapping 45 with 6867 and min val is 45
+min val 4764
+swapping 6867 with 4764 and min val is 0
+swapping 6867 with 4764 and min val is 0
+swapping 6867 with 4764 and min val is 0
+swapping 45 with 4764 and min val is 45
+min val 64
+swapping 6867 with 64 and min val is 0
+swapping 45 with 64 and min val is 45
+swapping 6867 with 64 and min val is 0
+swapping 6867 with 64 and min val is 0
+min val 45
+swapping 45 with 45 and min val is 45
+swapping 45 with 45 and min val is 0
+swapping 45 with 45 and min val is 0
+swapping 45 with 45 and min val is 0
+min val 56
+swapping 45 with 56 and min val is 0
+swapping 45 with 56 and min val is 0
+swapping 45 with 56 and min val is 0
+swapping 45 with 56 and min val is 45
+min val 324
+swapping 45 with 324 and min val is 0
+swapping 45 with 324 and min val is 0
+swapping 45 with 324 and min val is 0
+swapping 45 with 324 and min val is 45
+min val 543
+swapping 324 with 543 and min val is 0
+swapping 324 with 543 and min val is 0
+swapping 324 with 543 and min val is 0
+swapping 45 with 543 and min val is 45
+min val 86
+swapping 543 with 86 and min val is 0
+swapping 543 with 86 and min val is 0
+swapping 543 with 86 and min val is 0
+swapping 65 with 86 and min val is 65
+min val 45
+swapping 86 with 45 and min val is 0
+swapping 45 with 45 and min val is 45
+swapping 86 with 45 and min val is 0
+swapping 86 with 45 and min val is 0
+min val 56
+swapping 46 with 56 and min val is 46
+swapping 45 with 56 and min val is 0
+swapping 45 with 56 and min val is 0
+swapping 45 with 56 and min val is 0
+min val 54
+swapping 46 with 54 and min val is 0
+swapping 46 with 54 and min val is 0
+swapping 54 with 54 and min val is 54
+swapping 46 with 54 and min val is 0
+min val 436
+swapping 54 with 436 and min val is 0
+swapping 54 with 436 and min val is 54
+swapping 54 with 436 and min val is 0
+swapping 54 with 436 and min val is 0
+min val 65
+swapping 54 with 65 and min val is 0
+swapping 54 with 65 and min val is 54
+swapping 54 with 65 and min val is 0
+swapping 54 with 65 and min val is 0
+min val 66
+swapping 65 with 66 and min val is 0
+swapping 65 with 66 and min val is 65
+swapping 65 with 66 and min val is 0
+swapping 65 with 66 and min val is 0
+min val 45
+swapping 65 with 45 and min val is 0
+swapping 45 with 45 and min val is 45
+swapping 65 with 45 and min val is 0
+swapping 65 with 45 and min val is 0
+min val 78
+swapping 66 with 78 and min val is 66
+swapping 45 with 78 and min val is 0
+swapping 45 with 78 and min val is 0
+swapping 45 with 78 and min val is 0
+min val 56
+swapping 66 with 56 and min val is 0
+swapping 66 with 56 and min val is 0
+swapping 56 with 56 and min val is 56
+swapping 66 with 56 and min val is 0
+min val 54
+swapping 56 with 54 and min val is 0
+swapping 56 with 54 and min val is 0
+swapping 56 with 54 and min val is 0
+swapping 54 with 54 and min val is 54
+min val 67
+swapping 67 with 67 and min val is 67
+swapping 54 with 67 and min val is 0
+swapping 54 with 67 and min val is 0
+swapping 54 with 67 and min val is 0
+min val 54
+swapping 67 with 54 and min val is 0
+swapping 67 with 54 and min val is 0
+swapping 54 with 54 and min val is 54
+swapping 67 with 54 and min val is 0
+min val 76
+swapping 54 with 76 and min val is 0
+swapping 67 with 76 and min val is 67
+swapping 54 with 76 and min val is 0
+swapping 54 with 76 and min val is 0
+min val 45
+swapping 54 with 45 and min val is 0
+swapping 54 with 45 and min val is 0
+swapping 45 with 45 and min val is 45
+swapping 54 with 45 and min val is 0
+min val 52
+swapping 45 with 52 and min val is 0
+swapping 45 with 52 and min val is 0
+swapping 45 with 52 and min val is 0
+swapping 52 with 52 and min val is 52
+min val 76
+swapping 52 with 76 and min val is 0
+swapping 52 with 76 and min val is 0
+swapping 52 with 76 and min val is 0
+swapping 67 with 76 and min val is 67
+min val 54
+swapping 54 with 54 and min val is 54
+swapping 52 with 54 and min val is 0
+swapping 52 with 54 and min val is 0
+swapping 52 with 54 and min val is 0
+min val 2345
+swapping 54 with 2345 and min val is 0
+swapping 54 with 2345 and min val is 0
+swapping 54 with 2345 and min val is 0
+swapping 54 with 2345 and min val is 54
+min val 89
+swapping 2345 with 89 and min val is 0
+swapping 54 with 89 and min val is 54
+swapping 2345 with 89 and min val is 0
+swapping 2345 with 89 and min val is 0
+min val 43
+swapping 43 with 43 and min val is 43
+swapping 54 with 43 and min val is 0
+swapping 54 with 43 and min val is 0
+swapping 54 with 43 and min val is 0
+min val 64
+swapping 43 with 64 and min val is 0
+swapping 43 with 64 and min val is 0
+swapping 64 with 64 and min val is 64
+swapping 43 with 64 and min val is 0
+min val 345
+swapping 64 with 345 and min val is 0
+swapping 64 with 345 and min val is 0
+swapping 64 with 345 and min val is 0
+swapping 54 with 345 and min val is 54
+min val 89
+swapping 345 with 89 and min val is 0
+swapping 67 with 89 and min val is 67
+swapping 345 with 89 and min val is 0
+swapping 345 with 89 and min val is 0
+min val 452
+swapping 89 with 452 and min val is 0
+swapping 89 with 452 and min val is 0
+swapping 89 with 452 and min val is 0
+swapping 53 with 452 and min val is 53
+min val 58
+swapping 452 with 58 and min val is 0
+swapping 452 with 58 and min val is 0
+swapping 56 with 58 and min val is 56
+swapping 452 with 58 and min val is 0
+min val 67
+swapping 58 with 67 and min val is 0
+swapping 58 with 67 and min val is 0
+swapping 56 with 67 and min val is 56
+swapping 58 with 67 and min val is 0
+min val 645
+swapping 56 with 645 and min val is 0
+swapping 56 with 645 and min val is 0
+swapping 56 with 645 and min val is 0
+swapping 58 with 645 and min val is 58
+min val 765
+swapping 645 with 765 and min val is 0
+swapping 645 with 765 and min val is 0
+swapping 69 with 765 and min val is 69
+swapping 645 with 765 and min val is 0
+min val 657
+swapping 69 with 657 and min val is 0
+swapping 69 with 657 and min val is 0
+swapping 69 with 657 and min val is 0
+swapping 74 with 657 and min val is 74
+min val 658
+swapping 657 with 658 and min val is 0
+swapping 657 with 658 and min val is 0
+swapping 657 with 658 and min val is 0
+swapping 56 with 658 and min val is 56
+min val 657
+swapping 658 with 657 and min val is 0
+swapping 658 with 657 and min val is 0
+swapping 658 with 657 and min val is 0
+swapping 64 with 657 and min val is 64
+min val 57
+swapping 57 with 57 and min val is 57
+swapping 657 with 57 and min val is 0
+swapping 657 with 57 and min val is 0
+swapping 657 with 57 and min val is 0
+min val 56
+swapping 57 with 56 and min val is 0
+swapping 56 with 56 and min val is 56
+swapping 57 with 56 and min val is 0
+swapping 57 with 56 and min val is 0
+min val 546
+swapping 64 with 546 and min val is 64
+swapping 56 with 546 and min val is 0
+swapping 56 with 546 and min val is 0
+swapping 56 with 546 and min val is 0
+min val 78
+swapping 546 with 78 and min val is 0
+swapping 69 with 78 and min val is 69
+swapping 546 with 78 and min val is 0
+swapping 546 with 78 and min val is 0
+min val 67
+swapping 69 with 67 and min val is 0
+swapping 69 with 67 and min val is 0
+swapping 69 with 67 and min val is 0
+swapping 56 with 67 and min val is 56
+min val 879
+swapping 67 with 879 and min val is 0
+swapping 62 with 879 and min val is 62
+swapping 67 with 879 and min val is 0
+swapping 67 with 879 and min val is 0
+min val 435
+swapping 62 with 435 and min val is 0
+swapping 62 with 435 and min val is 0
+swapping 64 with 435 and min val is 64
+swapping 62 with 435 and min val is 0
+min val 46
+swapping 64 with 46 and min val is 0
+swapping 46 with 46 and min val is 46
+swapping 64 with 46 and min val is 0
+swapping 64 with 46 and min val is 0
+min val 654
+swapping 46 with 654 and min val is 0
+swapping 46 with 654 and min val is 0
+swapping 46 with 654 and min val is 0
+swapping 65 with 654 and min val is 65
+min val 765
+swapping 654 with 765 and min val is 0
+swapping 46 with 765 and min val is 46
+swapping 654 with 765 and min val is 0
+swapping 654 with 765 and min val is 0
+min val 769
+swapping 46 with 769 and min val is 0
+swapping 46 with 769 and min val is 0
+swapping 46 with 769 and min val is 0
+swapping 75 with 769 and min val is 75
+min val 68
+swapping 769 with 68 and min val is 0
+swapping 32 with 68 and min val is 32
+swapping 769 with 68 and min val is 0
+swapping 769 with 68 and min val is 0
+min val 678
+swapping 46 with 678 and min val is 46
+swapping 32 with 678 and min val is 0
+swapping 32 with 678 and min val is 0
+swapping 32 with 678 and min val is 0
+min val 643
+swapping 46 with 643 and min val is 0
+swapping 46 with 643 and min val is 0
+swapping 46 with 643 and min val is 0
+swapping 76 with 643 and min val is 76
+min val 79
+swapping 643 with 79 and min val is 0
+swapping 67 with 79 and min val is 67
+swapping 643 with 79 and min val is 0
+swapping 643 with 79 and min val is 0
+min val 87
+swapping 46 with 87 and min val is 46
+swapping 67 with 87 and min val is 0
+swapping 67 with 87 and min val is 0
+swapping 67 with 87 and min val is 0
+min val 87
+swapping 46 with 87 and min val is 0
+swapping 46 with 87 and min val is 0
+swapping 57 with 87 and min val is 57
+swapping 46 with 87 and min val is 0
+min val 436
+swapping 57 with 436 and min val is 0
+swapping 57 with 436 and min val is 0
+swapping 46 with 436 and min val is 46
+swapping 57 with 436 and min val is 0
+min val 345
+swapping 67 with 345 and min val is 67
+swapping 46 with 345 and min val is 0
+swapping 46 with 345 and min val is 0
+swapping 46 with 345 and min val is 0
+min val 543
+swapping 76 with 543 and min val is 76
+swapping 67 with 543 and min val is 0
+swapping 67 with 543 and min val is 0
+swapping 67 with 543 and min val is 0
+min val 56
+swapping 76 with 56 and min val is 0
+swapping 56 with 56 and min val is 56
+swapping 76 with 56 and min val is 0
+swapping 76 with 56 and min val is 0
+min val 6435
+swapping 56 with 6435 and min val is 0
+swapping 67 with 6435 and min val is 67
+swapping 56 with 6435 and min val is 0
+swapping 56 with 6435 and min val is 0
+min val 64
+swapping 6435 with 64 and min val is 0
+swapping 6435 with 64 and min val is 0
+swapping 6435 with 64 and min val is 0
+swapping 56 with 64 and min val is 56
+min val 345
+swapping 64 with 345 and min val is 0
+swapping 78 with 345 and min val is 78
+swapping 64 with 345 and min val is 0
+swapping 64 with 345 and min val is 0
+min val 64
+swapping 345 with 64 and min val is 0
+swapping 345 with 64 and min val is 0
+swapping 345 with 64 and min val is 0
+swapping 64 with 64 and min val is 64
+min val 56
+swapping 64 with 56 and min val is 0
+swapping 56 with 56 and min val is 56
+swapping 64 with 56 and min val is 0
+swapping 64 with 56 and min val is 0
+min val 89
+swapping 64 with 89 and min val is 64
+swapping 56 with 89 and min val is 0
+swapping 56 with 89 and min val is 0
+swapping 56 with 89 and min val is 0
+min val 873
+swapping 64 with 873 and min val is 0
+swapping 68 with 873 and min val is 68
+swapping 64 with 873 and min val is 0
+swapping 64 with 873 and min val is 0
+min val 57
+swapping 68 with 57 and min val is 0
+swapping 68 with 57 and min val is 0
+swapping 68 with 57 and min val is 0
+swapping 57 with 57 and min val is 57
+min val 68
+swapping 57 with 68 and min val is 0
+swapping 57 with 68 and min val is 0
+swapping 68 with 68 and min val is 68
+swapping 57 with 68 and min val is 0
+min val 765
+swapping 68 with 765 and min val is 0
+swapping 69 with 765 and min val is 69
+swapping 68 with 765 and min val is 0
+swapping 68 with 765 and min val is 0
+min val 8675
+swapping 69 with 8675 and min val is 0
+swapping 69 with 8675 and min val is 0
+swapping 69 with 8675 and min val is 0
+swapping 76 with 8675 and min val is 76
+min val 425
+swapping 8675 with 425 and min val is 0
+swapping 69 with 425 and min val is 69
+swapping 8675 with 425 and min val is 0
+swapping 8675 with 425 and min val is 0
+min val 345
+swapping 69 with 345 and min val is 0
+swapping 69 with 345 and min val is 0
+swapping 78 with 345 and min val is 78
+swapping 69 with 345 and min val is 0
+min val 74
+swapping 78 with 74 and min val is 0
+swapping 78 with 74 and min val is 0
+swapping 78 with 74 and min val is 0
+swapping 74 with 74 and min val is 74
+min val 658
+swapping 74 with 658 and min val is 0
+swapping 74 with 658 and min val is 0
+swapping 78 with 658 and min val is 78
+swapping 74 with 658 and min val is 0
+min val 90
+swapping 78 with 90 and min val is 0
+swapping 68 with 90 and min val is 68
+swapping 78 with 90 and min val is 0
+swapping 78 with 90 and min val is 0
+min val 69
+swapping 90 with 69 and min val is 0
+swapping 90 with 69 and min val is 0
+swapping 90 with 69 and min val is 0
+swapping 69 with 69 and min val is 69
+min val 452
+swapping 69 with 452 and min val is 0
+swapping 69 with 452 and min val is 0
+swapping 78 with 452 and min val is 78
+swapping 69 with 452 and min val is 0
+min val 435
+swapping 78 with 435 and min val is 0
+swapping 78 with 435 and min val is 0
+swapping 78 with 435 and min val is 0
+swapping 65 with 435 and min val is 65
+min val 2346
+swapping 435 with 2346 and min val is 0
+swapping 435 with 2346 and min val is 0
+swapping 78 with 2346 and min val is 78
+swapping 435 with 2346 and min val is 0
+min val 3457
+swapping 78 with 3457 and min val is 0
+swapping 78 with 3457 and min val is 0
+swapping 78 with 3457 and min val is 0
+swapping 89 with 3457 and min val is 89
+min val 567
+swapping 3457 with 567 and min val is 0
+swapping 3457 with 567 and min val is 0
+swapping 3457 with 567 and min val is 0
+swapping 72 with 567 and min val is 72
+min val 324
+swapping 567 with 324 and min val is 0
+swapping 567 with 324 and min val is 0
+swapping 567 with 324 and min val is 0
+swapping 78 with 324 and min val is 78
+min val 633
+swapping 324 with 633 and min val is 0
+swapping 76 with 633 and min val is 76
+swapping 324 with 633 and min val is 0
+swapping 324 with 633 and min val is 0
+min val 84
+swapping 78 with 84 and min val is 78
+swapping 324 with 84 and min val is 0
+swapping 324 with 84 and min val is 0
+swapping 324 with 84 and min val is 0
+min val 342
+swapping 78 with 342 and min val is 0
+swapping 78 with 342 and min val is 0
+swapping 78 with 342 and min val is 0
+swapping 78 with 342 and min val is 78
+min val 534
+swapping 342 with 534 and min val is 0
+swapping 342 with 534 and min val is 0
+swapping 78 with 534 and min val is 78
+swapping 342 with 534 and min val is 0
+min val 79
+swapping 78 with 79 and min val is 0
+swapping 78 with 79 and min val is 0
+swapping 78 with 79 and min val is 0
+swapping 79 with 79 and min val is 79
+min val 6435
+swapping 79 with 6435 and min val is 0
+swapping 75 with 6435 and min val is 75
+swapping 79 with 6435 and min val is 0
+swapping 79 with 6435 and min val is 0
+min val 9876
+swapping 78 with 9876 and min val is 78
+swapping 75 with 9876 and min val is 0
+swapping 75 with 9876 and min val is 0
+swapping 75 with 9876 and min val is 0
+min val 68
+swapping 78 with 68 and min val is 0
+swapping 78 with 68 and min val is 0
+swapping 78 with 68 and min val is 0
+swapping 68 with 68 and min val is 68
+min val 347
+swapping 68 with 347 and min val is 0
+swapping 78 with 347 and min val is 78
+swapping 68 with 347 and min val is 0
+swapping 68 with 347 and min val is 0
+min val 487
+swapping 84 with 487 and min val is 84
+swapping 78 with 487 and min val is 0
+swapping 78 with 487 and min val is 0
+swapping 78 with 487 and min val is 0
+min val 69
+swapping 487 with 69 and min val is 0
+swapping 487 with 69 and min val is 0
+swapping 487 with 69 and min val is 0
+swapping 69 with 69 and min val is 69
+min val 70
+swapping 70 with 70 and min val is 70
+swapping 69 with 70 and min val is 0
+swapping 69 with 70 and min val is 0
+swapping 69 with 70 and min val is 0
+min val 3456
+swapping 70 with 3456 and min val is 0
+swapping 68 with 3456 and min val is 68
+swapping 70 with 3456 and min val is 0
+swapping 70 with 3456 and min val is 0
+min val 765
+swapping 68 with 765 and min val is 0
+swapping 68 with 765 and min val is 0
+swapping 345 with 765 and min val is 345
+swapping 68 with 765 and min val is 0
+min val 2346
+swapping 345 with 2346 and min val is 0
+swapping 345 with 2346 and min val is 0
+swapping 345 with 2346 and min val is 0
+swapping 345 with 2346 and min val is 345
+min val 89
+swapping 2346 with 89 and min val is 0
+swapping 2346 with 89 and min val is 0
+swapping 2346 with 89 and min val is 0
+swapping 89 with 89 and min val is 89
+min val 657
+swapping 89 with 657 and min val is 0
+swapping 89 with 657 and min val is 0
+swapping 68 with 657 and min val is 68
+swapping 89 with 657 and min val is 0
+min val 425
+swapping 68 with 425 and min val is 0
+swapping 68 with 425 and min val is 0
+swapping 345 with 425 and min val is 345
+swapping 425 with 68 and min val is 0
+min val 235
+swapping 235 with 235 and min val is 235
+swapping 345 with 235 and min val is 0
+swapping 345 with 235 and min val is 0
+swapping 345 with 235 and min val is 0
+min val 6657
+swapping 235 with 6657 and min val is 0
+swapping 235 with 6657 and min val is 0
+swapping 235 with 6657 and min val is 0
+swapping 68 with 6657 and min val is 68
+min val 645
+swapping 425 with 645 and min val is 425
+swapping 6657 with 645 and min val is 0
+swapping 6657 with 645 and min val is 0
+swapping 6657 with 645 and min val is 0
+min val 879
+swapping 425 with 879 and min val is 0
+swapping 452 with 879 and min val is 452
+swapping 425 with 879 and min val is 0
+swapping 425 with 879 and min val is 0
+min val 643
+swapping 452 with 643 and min val is 0
+swapping 452 with 643 and min val is 0
+swapping 76 with 643 and min val is 76
+swapping 452 with 643 and min val is 0
+min val 3457
+swapping 76 with 3457 and min val is 0
+swapping 92 with 3457 and min val is 92
+swapping 76 with 3457 and min val is 0
+swapping 76 with 3457 and min val is 0
+min val 96756
+swapping 92 with 96756 and min val is 0
+swapping 534 with 96756 and min val is 534
+swapping 92 with 96756 and min val is 0
+swapping 92 with 96756 and min val is 0
+min val 873
+swapping 534 with 873 and min val is 0
+swapping 534 with 873 and min val is 534
+swapping 534 with 873 and min val is 0
+swapping 534 with 873 and min val is 0
+min val 567
+swapping 534 with 567 and min val is 0
+swapping 534 with 567 and min val is 0
+swapping 122 with 567 and min val is 122
+swapping 534 with 567 and min val is 0
+min val 436
+swapping 122 with 436 and min val is 0
+swapping 122 with 436 and min val is 0
+swapping 122 with 436 and min val is 0
+swapping 436 with 436 and min val is 436
+min val 657
+swapping 436 with 657 and min val is 0
+swapping 235 with 657 and min val is 235
+swapping 436 with 657 and min val is 0
+swapping 436 with 657 and min val is 0
+min val 4657456
+swapping 657 with 4657456 and min val is 0
+swapping 425 with 4657456 and min val is 425
+swapping 657 with 4657456 and min val is 0
+swapping 657 with 4657456 and min val is 0
+min val 789
+swapping 425 with 789 and min val is 0
+swapping 425 with 789 and min val is 0
+swapping 425 with 789 and min val is 0
+swapping 543 with 789 and min val is 543
+min val 765
+swapping 425 with 765 and min val is 425
+swapping 789 with 765 and min val is 0
+swapping 789 with 765 and min val is 0
+swapping 789 with 765 and min val is 0
+min val 2345
+swapping 425 with 2345 and min val is 0
+swapping 425 with 2345 and min val is 0
+swapping 425 with 2345 and min val is 0
+swapping 436 with 2345 and min val is 436
+min val 542
+swapping 2345 with 542 and min val is 0
+swapping 2345 with 542 and min val is 0
+swapping 2345 with 542 and min val is 0
+swapping 542 with 542 and min val is 542
+min val 3858
+swapping 542 with 3858 and min val is 0
+swapping 425 with 3858 and min val is 425
+swapping 542 with 3858 and min val is 0
+swapping 542 with 3858 and min val is 0
+min val 78
+swapping 425 with 78 and min val is 0
+swapping 78 with 78 and min val is 78
+swapping 425 with 78 and min val is 0
+swapping 425 with 78 and min val is 0
+min val 889
+swapping 568 with 889 and min val is 568
+swapping 78 with 889 and min val is 0
+swapping 78 with 889 and min val is 0
+swapping 78 with 889 and min val is 0
+min val 9876
+swapping 568 with 9876 and min val is 0
+swapping 568 with 9876 and min val is 0
+swapping 568 with 9876 and min val is 0
+swapping 89 with 9876 and min val is 89
+min val 3457
+swapping 9876 with 3457 and min val is 0
+swapping 9876 with 3457 and min val is 0
+swapping 611 with 3457 and min val is 611
+swapping 9876 with 3457 and min val is 0
+min val 347
+swapping 611 with 347 and min val is 0
+swapping 611 with 347 and min val is 0
+swapping 611 with 347 and min val is 0
+swapping 347 with 347 and min val is 347
+min val 234
+swapping 347 with 234 and min val is 0
+swapping 234 with 234 and min val is 234
+swapping 347 with 234 and min val is 0
+swapping 347 with 234 and min val is 0
+min val 234
+swapping 234 with 234 and min val is 234
+swapping 234 with 234 and min val is 0
+swapping 234 with 234 and min val is 0
+swapping 234 with 234 and min val is 0
+min val 633
+swapping 234 with 633 and min val is 0
+swapping 234 with 633 and min val is 0
+swapping 234 with 633 and min val is 0
+swapping 345 with 633 and min val is 345
+min val 3457
+swapping 633 with 3457 and min val is 0
+swapping 633 with 3457 and min val is 0
+swapping 633 with 3457 and min val is 0
+swapping 234 with 3457 and min val is 234
+min val 6435
+swapping 3457 with 6435 and min val is 0
+swapping 567 with 6435 and min val is 567
+swapping 3457 with 6435 and min val is 0
+swapping 3457 with 6435 and min val is 0
+min val 543
+swapping 543 with 543 and min val is 543
+swapping 6435 with 543 and min val is 0
+swapping 6435 with 543 and min val is 0
+swapping 6435 with 543 and min val is 0
+min val 6867
+swapping 543 with 6867 and min val is 0
+swapping 543 with 6867 and min val is 0
+swapping 635 with 6867 and min val is 635
+swapping 543 with 6867 and min val is 0
+min val 7645
+swapping 635 with 7645 and min val is 0
+swapping 635 with 7645 and min val is 0
+swapping 568 with 7645 and min val is 568
+swapping 635 with 7645 and min val is 0
+min val 3456
+swapping 568 with 3456 and min val is 0
+swapping 657 with 3456 and min val is 657
+swapping 568 with 3456 and min val is 0
+swapping 568 with 3456 and min val is 0
+min val 657
+swapping 657 with 657 and min val is 0
+swapping 657 with 657 and min val is 657
+swapping 657 with 657 and min val is 0
+swapping 657 with 657 and min val is 0
+min val 3858
+swapping 657 with 3858 and min val is 0
+swapping 657 with 3858 and min val is 0
+swapping 657 with 3858 and min val is 0
+swapping 765 with 3858 and min val is 765
+min val 643
+swapping 643 with 643 and min val is 643
+swapping 3858 with 643 and min val is 0
+swapping 3858 with 643 and min val is 0
+swapping 3858 with 643 and min val is 0
+min val 4657456
+swapping 643 with 4657456 and min val is 0
+swapping 657 with 4657456 and min val is 657
+swapping 643 with 4657456 and min val is 0
+swapping 643 with 4657456 and min val is 0
+min val 870
+swapping 4657456 with 870 and min val is 0
+swapping 4657456 with 870 and min val is 0
+swapping 4657456 with 870 and min val is 0
+swapping 452 with 870 and min val is 452
+min val 567
+swapping 870 with 567 and min val is 0
+swapping 456 with 567 and min val is 456
+swapping 870 with 567 and min val is 0
+swapping 870 with 567 and min val is 0
+min val 765
+swapping 765 with 765 and min val is 765
+swapping 870 with 765 and min val is 0
+swapping 870 with 765 and min val is 0
+swapping 870 with 765 and min val is 0
+min val 8768
+swapping 765 with 8768 and min val is 0
+swapping 567 with 8768 and min val is 567
+swapping 765 with 8768 and min val is 0
+swapping 765 with 8768 and min val is 0
+min val 3457
+swapping 8768 with 3457 and min val is 0
+swapping 8768 with 3457 and min val is 0
+swapping 8768 with 3457 and min val is 0
+swapping 765 with 3457 and min val is 765
+min val 7645
+swapping 3457 with 7645 and min val is 0
+swapping 873 with 7645 and min val is 873
+swapping 3457 with 7645 and min val is 0
+swapping 3457 with 7645 and min val is 0
+min val 568
+swapping 873 with 568 and min val is 0
+swapping 567 with 568 and min val is 567
+swapping 873 with 568 and min val is 0
+swapping 873 with 568 and min val is 0
+min val 678
+swapping 567 with 678 and min val is 0
+swapping 567 with 678 and min val is 0
+swapping 567 with 678 and min val is 0
+swapping 568 with 678 and min val is 568
+min val 6347
+swapping 678 with 6347 and min val is 0
+swapping 678 with 6347 and min val is 0
+swapping 678 with 6347 and min val is 0
+swapping 567 with 6347 and min val is 567
+min val 633
+swapping 6347 with 633 and min val is 0
+swapping 6347 with 633 and min val is 0
+swapping 633 with 633 and min val is 633
+swapping 6347 with 633 and min val is 0
+min val 658
+swapping 633 with 658 and min val is 0
+swapping 633 with 658 and min val is 0
+swapping 633 with 658 and min val is 0
+swapping 645 with 658 and min val is 645
+min val 5678
+swapping 633 with 5678 and min val is 633
+swapping 658 with 5678 and min val is 0
+swapping 658 with 5678 and min val is 0
+swapping 658 with 5678 and min val is 0
+min val 782
+swapping 633 with 782 and min val is 0
+swapping 633 with 782 and min val is 0
+swapping 782 with 782 and min val is 782
+swapping 633 with 782 and min val is 0
+min val 4657456
+swapping 782 with 4657456 and min val is 0
+swapping 782 with 4657456 and min val is 0
+swapping 782 with 4657456 and min val is 0
+swapping 674 with 4657456 and min val is 674
+min val 8768
+swapping 782 with 8768 and min val is 0
+swapping 782 with 8768 and min val is 0
+swapping 782 with 8768 and min val is 0
+swapping 889 with 8768 and min val is 889
+min val 765
+swapping 765 with 765 and min val is 765
+swapping 8768 with 765 and min val is 0
+swapping 8768 with 765 and min val is 0
+swapping 8768 with 765 and min val is 0
+min val 879
+swapping 765 with 879 and min val is 0
+swapping 879 with 879 and min val is 879
+swapping 765 with 879 and min val is 0
+swapping 765 with 879 and min val is 0
+min val 2346
+swapping 879 with 2346 and min val is 0
+swapping 879 with 2346 and min val is 0
+swapping 879 with 2346 and min val is 0
+swapping 2346 with 2346 and min val is 2346
+min val 678
+swapping 2346 with 678 and min val is 0
+swapping 2346 with 678 and min val is 0
+swapping 678 with 678 and min val is 678
+swapping 2346 with 678 and min val is 0
+min val 782
+swapping 678 with 782 and min val is 0
+swapping 782 with 782 and min val is 782
+swapping 678 with 782 and min val is 0
+swapping 678 with 782 and min val is 0
+min val 5678
+swapping 782 with 5678 and min val is 0
+swapping 2346 with 5678 and min val is 2346
+swapping 782 with 5678 and min val is 0
+swapping 782 with 5678 and min val is 0
+min val 4657456
+swapping 2346 with 4657456 and min val is 0
+swapping 2346 with 4657456 and min val is 0
+swapping 2346 with 4657456 and min val is 0
+swapping 6867 with 4657456 and min val is 6867
+min val 3457
+swapping 4657456 with 3457 and min val is 0
+swapping 4657456 with 3457 and min val is 0
+swapping 4657456 with 3457 and min val is 0
+swapping 3457 with 3457 and min val is 3457
+min val 4657456
+swapping 3457 with 4657456 and min val is 0
+swapping 3457 with 4657456 and min val is 0
+swapping 3456 with 4657456 and min val is 3456
+swapping 3457 with 4657456 and min val is 0
+min val 2346
+swapping 3456 with 2346 and min val is 0
+swapping 3456 with 2346 and min val is 0
+swapping 2346 with 2346 and min val is 2346
+swapping 3456 with 2346 and min val is 0
+min val 85678
+swapping 7645 with 85678 and min val is 7645
+swapping 3456 with 85678 and min val is 0
+swapping 3456 with 85678 and min val is 0
+swapping 3456 with 85678 and min val is 0
+min val 96756
+swapping 7645 with 96756 and min val is 0
+swapping 7645 with 96756 and min val is 0
+swapping 7645 with 96756 and min val is 0
+swapping 5678 with 96756 and min val is 5678
+min val 4657456
+swapping 96756 with 4657456 and min val is 0
+swapping 96756 with 4657456 and min val is 0
+swapping 85678 with 4657456 and min val is 85678
+swapping 96756 with 4657456 and min val is 0
+min val 7645
+swapping 7645 with 7645 and min val is 7645
+swapping 85678 with 7645 and min val is 0
+swapping 85678 with 7645 and min val is 0
+swapping 85678 with 7645 and min val is 0
+Sorted array: 
+7645 0 1 1 2 2 1 2 2 2 3 788 1 1 1 1 1 1 1 1 2 2 1 2 2 2 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 3 3 3 3 3 2 3 3 3 2 2 3 3 3 3 4 4 4 4 4 4 3 4 4 4 4 4 4 4 2 2 3 2 3 4 4 4 4 3 4 4 4 4 4 4 3 2 3 4 4 4 4 4 2 3 4 4 3 4 4 4 4 3 4 2 4 3 4 4 3 3 4 4 2 4 3 2 4 2 3 4 4 2 4 4 4 4 3 5 4 3 5 5 5 5 5 5 3 4 3 4 3 2 4 5 5 5 5 5 4 3 5 5 4 5 5 5 5 5 5 5 5 3 5 2 5 5 5 5 3 4 5 5 5 5 5 5 5 3 5 5 5 6 6 6 6 2 3 6 6 6 6 6 6 6 23 2 3 3 3 3 3 4 4 4 4 4 4 4 4 5 5 2 5 5 5 7 1 3 34567 1 7 3 1 5 2 6 2 5 2 2 32 2 7 2 5 5 2 9 5 4 6 2 6 7 23 2 3 76856 6 6 6 2 6 458 3 6 3 4 6 6 23 6 56 3 8 3 9 3 3 3 3 3 4568 3 3 356 4 4 3 3 3 3456 5 3456 5 5 56 3 3 3 7 3 3 4 3 5 5 3 5 5 3 4 6 74 6 4 4 5 4 4 23 6 4 4 4 63 6 4 6 6 4 4 9 6 6 4 6 88 4 4 24 3 4 56 4 5 4 45 4 4 56 3 5 54 6 6 6 6 568 6 6579 8 5 5 43 5 657 3 456 4 5 4 6 89 4 98 5 6 5 6 6 23 345 6 7 4 23 5 7 6 6 3456 6 6 345 6 3 6 6 7 345 7 7 3 642 4 6 467 7 7 8 6 65 4 7 7 7 57 7 7 432 7 57 7 7 7 6 5 7 6 69 7 57 8 3 7 245 8 5 84 8 8 8 2345 674 9 11 3 8 9 435 7 7 3 34 9 2 7 3 11 7 43 7 56 56 3 4 7 345 23 23 8 86 8 23 8 54 23 6 8 43 4 8 24 9 8 32 32 78 4 34 56 9 34 34 56 6 34 8 34 34 34 34 65 34 35 58 35 42 36 2 9 43 8 43 98 6 43 3 45 7876 35 45 4 4 9 45 654 45 2 25 2 12 3 58 45 245 4 45 43 453 4 9 54 5 45 54 3 8 4 46 4 45 8 22 23 34 5 45 467 32 5 6 46 3457 54 34 6 85 8 798 45 45 23 9 56 34 52 23 679 53 5 53 54 234 54 6 23 56 5 23 23 6579 25 54 5 32 52 34 7 47 34 54 54 56 562 9 34 23 34 34 34 43 34 7 43 45 34 56 64 23 34 56 34 23 36 56 346 35 43 54 56 67 6347 43 8 56 56 54 6435 54 22 43 22 34 34 32 32 44 45 42 43 43 65 34 57 64 45 56 34 53 45 54 54 45 34 55 657 45 56 45 56 34 57 57 67 57 67 45 45 56 64 67 45 45 6867 45 45 45 45 65 86 45 46 54 54 65 65 45 66 56 54 67 67 54 45 67 52 54 2345 54 43 54 345 53 56 58 58 645 74 56 64 657 57 56 546 56 67 62 64 65 654 75 769 32 76 643 87 46 57 46 67 76 67 56 78 345 64 56 64 68 57 68 76 8675 69 78 74 68 90 69 65 435 89 72 78 76 324 78 342 78 79 75 78 68 84 487 69 70 68 345 2346 89 68 345 68 6657 425 452 76 92 534 534 122 235 657 543 789 436 2345 542 425 78 89 9876 611 347 234 345 234 567 6435 543 635 568 657 765 3858 657 452 456 870 765 765 3457 873 568 567 6347 645 658 633 674 889 8768 765 879 2346 678 782 6867 4657456 3457 2346 3456 5678 96756 85678 4657456 
+Selection sort openMP parallel code took 9.966322 seconds 

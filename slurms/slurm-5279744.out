@@ -1,0 +1,1 @@
+/var/spool/slurm/d/job5279744/slurm_script: line 14: 49004 Segmentation fault      (core dumped) ./parallel
