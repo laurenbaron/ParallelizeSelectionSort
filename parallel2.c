@@ -9,34 +9,27 @@ void swap(int *xp, int *yp)
 	*xp = *yp;
 	*yp = temp;
 }
-
 void selectionSort(int arr[], int n)
 {
-	printf("N: %d\n",n);
 	int i=0, j=0, min_i=0;
 	// One by one move boundary of unsorted subarray
 	for (i = 0; i < n-1; ++i)
 	{
-	//	printf("I: %d ", i);
 		// Find the minimum element in unsorted array
-		min_i=i;//min_i=i; min_i=arr[i];
-	//	printf(" going into j1 ");
+		min_i=i;
 		#pragma omp parallel for reduction(min:min_i)
 		for (j = i+1; j < n; ++j){
-	//		printf("J1: %d ",j);
 			min_i = arr[j];
 		}
 		#pragma omp parallel for
-		for (j = i + 1; j < n; ++j) {
-//			printf("J2: %d ",j);
+		for (j = i+1; j < n; ++j) {
 			if (arr[j] == min_i)
 				min_i = j;
 		}
 		// Swap the found minimum element with the first element
-		if (min_i!=i) 
-			swap(&arr[min_i], &arr[i]);
-	//	}
-//		printf("done \n");
+		//offset so first element is in the correct place
+		if(i>0 && min_i!=i && i<(n/2))
+			swap(&arr[min_i], &arr[i-1]);
 	}
 }
 
