@@ -3,7 +3,7 @@ CISC 372-011: Swetha Sankar, Lauren Baron, Brendan Green
 
 
 ## Introduction 
-We sought to parallelize selection sort with both OpenMP and OpenACC. We tested the efficiency of our parallelization by targeting multicore CPUs with both OpenMP and OpenACC. We also acclerated the OpenACC code with GPUs.
+We sought to parallelize selection sort with both OpenMP and OpenACC. We tested the efficiency of our parallelization by targeting multicore CPUs with both OpenMP and OpenACC. We also accelerated the OpenACC code with GPUs.
 
 ## Requirements
 We used an NVC compiler for all of our timed runs
