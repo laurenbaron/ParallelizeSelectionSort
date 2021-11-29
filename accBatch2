@@ -13,4 +13,4 @@
 #allocation 1 v100 gpu(i.e = v100-32:5 allocates 5GPUS)
 
 
-./gpu_acc
+./gpu_acc2
