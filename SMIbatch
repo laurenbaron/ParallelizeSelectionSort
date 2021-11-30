@@ -1,0 +1,15 @@
+#! /bin/bash
+
+#SBATCH -A see200002p           # specify the project or allocation number
+#SBATCH -J myjob                # Job name
+#SBATCH --mail-user=lbaron@udel.edu
+#SBATCH --mail-type=ALL
+
+#SBATCH -N 1                    # Number of nodes, not cores (16 cores/node)
+#SBATCH -p GPU-shared           #GPU-shared partition
+#SBATCH --gpus=v100-32:1        #allocation 1 v100 gpu(i.e. = v100-32:5 allocates 5GPUS)
+set -x                          #echo to screen 
+
+#SBATCH -t 00:10:00             # set maximum run time of 30 minutes
+
+nvidia-smi
