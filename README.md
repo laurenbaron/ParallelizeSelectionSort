@@ -16,19 +16,22 @@ We use CUDA to use NVIDIA SMI
 OpenMP multicore CPU: 
 >> nvc -mp openmp_10k.c -o parallel
 
-NOTE: change .c file according to the input size you want 
+(NOTE: change .c file according to the input size you want) 
 
 >> sbatch mpBatch 
 
-NOTE: change cores and threads in the mpBatch script accordingly
+(NOTE: change cores and threads in the mpBatch script accordingly)
 
 OpenACC multicore CPU:
 
 OpenACC GPU: 
 >> nvc -acc -ta=tesla -Minfo=accel acc_10k.c -o gpu_acc_10
-NOTE: change .c file according to the input size you want
+
+(NOTE: change .c file according to the input size you want)
+
 >> sbatch accBatch_10
-NOTE: change GPUs in the accBatch script accordingly
+
+(NOTE: change GPUs in the accBatch script accordingly)
 
 View output:
 >> more slurm-jobID.out
