@@ -27,8 +27,8 @@ void selectionSort(int arr[], int n) {
 				min_idx = j;
 		}
 
-			if (min_idx != i) {
-				swap(&arr[min_idx], &arr[i]);
+			if(i>0 && min_i!=i && i<=(n/2)){
+				swap(&arr[min_idx], &arr[i-1]);
 			}
 		}
 	}

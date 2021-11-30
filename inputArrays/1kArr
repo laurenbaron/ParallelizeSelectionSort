@@ -1,52 +1,4 @@
-// C program for implementation of selection sort
-#include <stdio.h>
-#include <time.h>
-#include "omp.h"
-
-void swap(int *xp, int *yp)
-{
-    int temp = *xp;
-    *xp = *yp;
-    *yp = temp;
-}
- 
-void selectionSort(int arr[], int n) {
-	int i, j, min_idx;
-	for (i = 0; i < n - 1; ++i) {
-		min_idx = i;
-		#pragma acc parallel loop reduction(min:min_idx)
-		for (j = i + 1; j < n; ++j) {
-			min_idx = arr[i];
-		}
-
-		#pragma acc parallel loop vector
-		for (j = i + 1; j < n; ++j) {
-			if (arr[j] == min_idx)
-				min_idx = j;
-		}
-
-			if(i>0 && min_i!=i && i<=(n/2)) {
-				swap(&arr[min_idx], &arr[i-1]);
-			}
-		}
-	}
- 
-/* Function to print an array */
-void printArray(int arr[], int size)
-{
-    int i;
-    for (i=0; i < size; i++)
-        printf("%d ", arr[i]);
-    printf("\n");
-}
- 
-// Driver program to test above functions
-int main()
-{
-    double begin, end;
-    begin = omp_get_wtime();
-
-    int arr[] = {1000, 999, 998, 997, 996, 995, 994, 993, 992, 991, 
+{1000, 999, 998, 997, 996, 995, 994, 993, 992, 991, 
 
 990, 989, 988, 987, 986, 985, 984, 983, 982, 981, 980, 979, 978, 977, 976, 975, 974, 973, 972, 971, 970, 969, 968, 967, 966, 965, 964, 963, 962, 961, 
 
@@ -112,13 +64,4 @@ int main()
 
 60, 59, 58, 57, 56, 55, 54, 53, 52, 51, 50, 49, 48, 47, 46, 45, 44, 43, 42, 41, 40, 39, 38, 37, 36, 35, 34, 33, 32, 31, 
 
-30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1};
-	
-    int n = sizeof(arr)/sizeof(arr[0]);
-    selectionSort(arr, n);
-    printf("Sorted array: \n");
-    printArray(arr, n);
-    end = omp_get_wtime();
-    printf("Open ACC parallelized code takes %f seconds\n",end-begin);
-    return 0;
-}
+30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1}
