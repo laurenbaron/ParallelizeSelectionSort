@@ -8,14 +8,18 @@ We sought to parallelize selection sort with both OpenMP and OpenACC. We tested 
 ## Requirements
 We used an NVC compiler for all of our timed runs
 >> module load nvhpc/21.7
+
 We use CUDA to use NVIDIA SMI
 >> module load cuda/11.1.1
 
 ## Configuration
 OpenMP multicore CPU: 
 >> nvc -mp openmp_10k.c -o parallel
+
 NOTE: change .c file according to the input size you want 
+
 >> sbatch mpBatch 
+
 NOTE: change cores and threads in the mpBatch script accordingly
 
 OpenACC multicore CPU:
@@ -26,7 +30,12 @@ NOTE: change .c file according to the input size you want
 >> sbatch accBatch_10
 NOTE: change GPUs in the accBatch script accordingly
 
+View output:
 >> more slurm-jobID.out
+
+View SMI:
+>> sbatch accBatch
+>> sbatch SMIbatch 
 
 ## Troubleshooting
 Make sure the nvhpc module is loaded before compiling the code
