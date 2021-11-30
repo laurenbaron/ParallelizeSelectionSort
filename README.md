@@ -42,6 +42,7 @@ OpenACC GPU:
 
 View SMI:
 >> sbatch accGpuBatch
+
 >> sbatch SMIbatch 
 
 View output:
