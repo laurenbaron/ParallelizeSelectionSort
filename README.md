@@ -48,6 +48,9 @@ View SMI:
 View output:
 >> more slurm-jobID.out
 
+View Nsight files:
+>> need to have Nsight Compute and Nsight Systems downloaded
+
 ## Troubleshooting
 Make sure the nvhpc module is loaded before compiling the code
 
